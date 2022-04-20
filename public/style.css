@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+*{
+    font-family: 'inter';
+    margin: 0;
+    padding: 0;
+}
+select{
+    border: none;
+    background-color: rgb(53, 53, 53);
+    padding: 10px;
+    color: white;
+    border-radius: 6px;
+}
+
+#carput{
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid rgb(53, 53, 53);
+}
+
+#btn{
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid rgb(53, 53, 53);
+}
+
+#btn:hover{
+    cursor: pointer;
+    background-color: blueviolet;
+}
+
+header{
+    color: blueviolet;
+    margin: 15px;
+    padding-top: 20px;
+}
+
+.cars-display{
+   padding: 10px;
+}
+
+.sql{
+    color: rgb(0, 110, 255);
+}
+
+.mongo{
+    color: rgb(0, 207, 0);
+}

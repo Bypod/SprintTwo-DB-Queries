@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/style.css" type="text/css">
+</head>
+<body>
+    <header>
+        <h1>Tow Mators Junk Yard Cars</h1>
+    </header>
+    <form action="/" method="POST">
+        <select name="databases" id="dbs">
+            <option value="0" >Select Database</option>
+            <option value="1">SQL</option>
+            <option value="2" >MongoDB</option>
+            <option value="3">Both</option>
+        </select>
+        <select name="filters" id="dbs">
+            <option value="select" >filter option</option>
+            <option value="dealer_loc">Location</option>
+            <option value="car_year" >Year</option>
+            <option value="car_make">Make</option>
+            <option value="car_model">Model</option>
+        </select>
+        <input type="text" placeholder="search used cars..." name="carput" id="carput">
+        <input type="submit" value="Search" id="btn">
+    </form>
+    <div class="container">
+        <% if (cars.length > 0) {  %>
+            <% cars.forEach(car => {  %>
+                <% const full_car = `${car.car_year} ${car.car_make} ${car.car_model}` %>
+                <p class="cars-display">
+                    <h2 class="sql"><%= full_car %> </h2>
+                    <h4>$<%= car.car_price%> <%= car.car_km%>km <%= car.dealer_loc%></h4>
+                    <hr>
+                </p>
+            <%   }) %>
+        <% } %>
+        <% if(carResults.length > 0) { %>
+            <% carResults.forEach((results) => { %>
+                <% const car_full = `${results.car_year} ${results.car_make} ${results.car_model}` %>
+                <p class="cars-display">
+                <h2 class="mongo"><%= car_full%></h2>
+                <h4><%= results.car_price %> <%= results.car_km %>km <%= results.dealer_loc %></h4>
+                <hr>
+            </p>
+            <%}) %>
+        <%} %> 
+    </div>
+</body>
+</html>
+

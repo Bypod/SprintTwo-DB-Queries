@@ -1,0 +1,18 @@
+
+20220421	11:04:03	INFO	router.get()	Database Query Webpage Initiated.
+20220421	11:05:17	INFO	router.post()	User Input: 2001 DB: MongoDB and SQL Filter: car_year
+20220421	11:05:17	INFO	router.get()	Database Query Webpage Initiated.
+20220421	11:05:17	INFO	router.post()	User Input: Toronto DB: MongoDB and SQL Filter: dealer_loc
+20220421	11:05:17	INFO	router.post()	User Input: 2002 DB: SQL Filter: car_year
+20220421	11:05:17	INFO	router.post()	User Input: Sentra DB: MongoDB Filter: car_model
+20220421	11:05:17	INFO	router.get()	Database Query Webpage Initiated.
+20220421	11:05:17	INFO	router.get()	Database Query Webpage Initiated.
+20220421	11:05:17	INFO	router.get()	Database Query Webpage Initiated.
+20220421	11:15:13	INFO	router.get()	Database Query Webpage Initiated.
+20220421	11:15:13	WARN	router.post()	Database was not selected and Nothing was inputed.
+20220421	11:15:13	INFO	router.post()	User Input:  DB: MongoDB and SQL Filter: select
+20220421	11:15:13	INFO	router.post()	User Input:  DB: SQL Filter: select
+20220421	11:15:13	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	11:15:13	INFO	router.post()	User Input: Civic DB: SQL Filter: car_model
+20220421	11:15:13	INFO	router.post()	User Input: Honda DB: SQL Filter: car_make
+20220421	11:15:13	INFO	router.post()	User Input: Halifax DB: MongoDB and SQL Filter: dealer_loc

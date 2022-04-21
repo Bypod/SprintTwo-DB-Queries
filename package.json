@@ -1,22 +1,30 @@
 {
-  "name": "sprint2",
+  "name": "current-project",
   "version": "1.0.0",
-  "description": "sprint2 project",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "devStart": "nodemon server.js"
   },
-  "author": "Eric, Brandon, John",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.20.0",
-    "date": "^1.0.2",
     "date-fns": "^2.28.0",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.3.0",
+    "morgan": "^1.10.0",
+    "passport-local-mongoose": "^7.0.0",
+    "pg": "^8.7.3"
+  },
+  "devDependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^8.6.0",
     "ejs": "^3.1.6",
     "express": "^4.17.3",
-    "fs": "^0.0.1-security",
-    "mongodb": "^4.5.0",
-    "mongoose": "^6.2.10",
-    "pg": "^8.7.3"
+    "express-flash": "^0.0.2",
+    "express-session": "^1.17.2",
+    "nodemon": "^1.19.4",
+    "passport": "^0.5.2",
+    "passport-local": "^1.0.0"
   }
 }

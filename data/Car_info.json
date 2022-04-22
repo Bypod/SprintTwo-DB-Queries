@@ -1,0 +1,4500 @@
+[{
+    "car_id": 947,
+    "car_make": "Toyota",
+    "car_year": 2010,
+    "car_model": "Avalon",
+    "car_price": "$18351.17",
+    "dealer_loc": "St. John's",
+    "car_km": 87858
+},
+{
+    "car_id": 1072,
+    "car_make": "Plymouth",
+    "car_year": 1992,
+    "car_model": "Colt",
+    "car_price": "$18438.60",
+    "dealer_loc": "Gander",
+    "car_km": 267847
+},
+{
+    "car_id": 848,
+    "car_make": "Chevrolet",
+    "car_year": 1999,
+    "car_model": "Tracker",
+    "car_price": "$3487.93",
+    "dealer_loc": "Halifax",
+    "car_km": 239034
+},
+{
+    "car_id": 1057,
+    "car_make": "Lexus",
+    "car_year": 2008,
+    "car_model": "LS",
+    "car_price": "$16938.01",
+    "dealer_loc": "St. John's",
+    "car_km": 207826
+},
+{
+    "car_id": 758,
+    "car_make": "Ferrari",
+    "car_year": 2012,
+    "car_model": "FF",
+    "car_price": "$10913.35",
+    "dealer_loc": "Halifax",
+    "car_km": 227543
+},
+{
+    "car_id": 826,
+    "car_make": "Buick",
+    "car_year": 1996,
+    "car_model": "Riviera",
+    "car_price": "$4816.38",
+    "dealer_loc": "Halifax",
+    "car_km": 62221
+},
+{
+    "car_id": 843,
+    "car_make": "Cadillac",
+    "car_year": 1995,
+    "car_model": "DeVille",
+    "car_price": "$3850.83",
+    "dealer_loc": "Vancouver",
+    "car_km": 72731
+},
+{
+    "car_id": 973,
+    "car_make": "Mercedes-Benz",
+    "car_year": 1993,
+    "car_model": "S-Class",
+    "car_price": "$14753.02",
+    "dealer_loc": "Toronto",
+    "car_km": 209887
+},
+{
+    "car_id": 845,
+    "car_make": "Cadillac",
+    "car_year": 1998,
+    "car_model": "Catera",
+    "car_price": "$12556.42",
+    "dealer_loc": "Toronto",
+    "car_km": 191109
+},
+{
+    "car_id": 681,
+    "car_make": "Toyota",
+    "car_year": 2006,
+    "car_model": "Yaris",
+    "car_price": "$4430.29",
+    "dealer_loc": "Vancouver",
+    "car_km": 69191
+},
+{
+    "car_id": 908,
+    "car_make": "Mercury",
+    "car_year": 2003,
+    "car_model": "Grand Marquis",
+    "car_price": "$19237.39",
+    "dealer_loc": "Halifax",
+    "car_km": 34185
+},
+{
+    "car_id": 621,
+    "car_make": "Pontiac",
+    "car_year": 1999,
+    "car_model": "Firebird",
+    "car_price": "$14887.24",
+    "dealer_loc": "Toronto",
+    "car_km": 183154
+},
+{
+    "car_id": 815,
+    "car_make": "Pontiac",
+    "car_year": 1994,
+    "car_model": "Sunbird",
+    "car_price": "$10042.10",
+    "dealer_loc": "St. John's",
+    "car_km": 142141
+},
+{
+    "car_id": 988,
+    "car_make": "BMW",
+    "car_year": 2011,
+    "car_model": "5 Series",
+    "car_price": "$9821.57",
+    "dealer_loc": "Vancouver",
+    "car_km": 197676
+},
+{
+    "car_id": 911,
+    "car_make": "Suzuki",
+    "car_year": 1995,
+    "car_model": "SJ",
+    "car_price": "$10604.71",
+    "dealer_loc": "St. John's",
+    "car_km": 137764
+},
+{
+    "car_id": 1010,
+    "car_make": "Volvo",
+    "car_year": 2001,
+    "car_model": "V40",
+    "car_price": "$14272.25",
+    "dealer_loc": "Corner Brook",
+    "car_km": 173101
+},
+{
+    "car_id": 758,
+    "car_make": "Lincoln",
+    "car_year": 2009,
+    "car_model": "Navigator L",
+    "car_price": "$17582.30",
+    "dealer_loc": "Corner Brook",
+    "car_km": 291476
+},
+{
+    "car_id": 1079,
+    "car_make": "Buick",
+    "car_year": 1991,
+    "car_model": "LeSabre",
+    "car_price": "$18866.94",
+    "dealer_loc": "Halifax",
+    "car_km": 93767
+},
+{
+    "car_id": 644,
+    "car_make": "Mitsubishi",
+    "car_year": 2006,
+    "car_model": "Montero",
+    "car_price": "$16560.64",
+    "dealer_loc": "Gander",
+    "car_km": 135644
+},
+{
+    "car_id": 866,
+    "car_make": "Volkswagen",
+    "car_year": 1967,
+    "car_model": "Beetle",
+    "car_price": "$4288.62",
+    "dealer_loc": "Vancouver",
+    "car_km": 281517
+},
+{
+    "car_id": 627,
+    "car_make": "Mazda",
+    "car_year": 1996,
+    "car_model": "B-Series Plus",
+    "car_price": "$9281.56",
+    "dealer_loc": "St. John's",
+    "car_km": 34157
+},
+{
+    "car_id": 976,
+    "car_make": "Mercury",
+    "car_year": 1993,
+    "car_model": "Grand Marquis",
+    "car_price": "$4668.15",
+    "dealer_loc": "Gander",
+    "car_km": 255636
+},
+{
+    "car_id": 1049,
+    "car_make": "Pontiac",
+    "car_year": 2005,
+    "car_model": "GTO",
+    "car_price": "$13778.57",
+    "dealer_loc": "Halifax",
+    "car_km": 36545
+},
+{
+    "car_id": 1098,
+    "car_make": "Chevrolet",
+    "car_year": 2006,
+    "car_model": "Silverado 3500",
+    "car_price": "$3074.20",
+    "dealer_loc": "Corner Brook",
+    "car_km": 190488
+},
+{
+    "car_id": 1071,
+    "car_make": "Dodge",
+    "car_year": 2002,
+    "car_model": "Grand Caravan",
+    "car_price": "$20829.38",
+    "dealer_loc": "Corner Brook",
+    "car_km": 174300
+},
+{
+    "car_id": 868,
+    "car_make": "Ford",
+    "car_year": 2011,
+    "car_model": "E250",
+    "car_price": "$10677.18",
+    "dealer_loc": "Corner Brook",
+    "car_km": 129212
+},
+{
+    "car_id": 963,
+    "car_make": "Lincoln",
+    "car_year": 2001,
+    "car_model": "Town Car",
+    "car_price": "$9227.15",
+    "dealer_loc": "Vancouver",
+    "car_km": 240116
+},
+{
+    "car_id": 709,
+    "car_make": "Aston Martin",
+    "car_year": 2012,
+    "car_model": "Rapide",
+    "car_price": "$19408.06",
+    "dealer_loc": "Halifax",
+    "car_km": 61879
+},
+{
+    "car_id": 1098,
+    "car_make": "Toyota",
+    "car_year": 2004,
+    "car_model": "MR2",
+    "car_price": "$11834.40",
+    "dealer_loc": "Halifax",
+    "car_km": 282563
+},
+{
+    "car_id": 1032,
+    "car_make": "Pontiac",
+    "car_year": 1988,
+    "car_model": "Sunbird",
+    "car_price": "$15651.19",
+    "dealer_loc": "Corner Brook",
+    "car_km": 61415
+},
+{
+    "car_id": 782,
+    "car_make": "Mazda",
+    "car_year": 2005,
+    "car_model": "Mazda3",
+    "car_price": "$5755.22",
+    "dealer_loc": "Gander",
+    "car_km": 72367
+},
+{
+    "car_id": 922,
+    "car_make": "Mazda",
+    "car_year": 1998,
+    "car_model": "626",
+    "car_price": "$15328.87",
+    "dealer_loc": "Corner Brook",
+    "car_km": 179876
+},
+{
+    "car_id": 997,
+    "car_make": "Dodge",
+    "car_year": 2008,
+    "car_model": "Ram 1500",
+    "car_price": "$11134.81",
+    "dealer_loc": "St. John's",
+    "car_km": 298333
+},
+{
+    "car_id": 1039,
+    "car_make": "Toyota",
+    "car_year": 2011,
+    "car_model": "RAV4",
+    "car_price": "$12276.59",
+    "dealer_loc": "Vancouver",
+    "car_km": 244620
+},
+{
+    "car_id": 665,
+    "car_make": "GMC",
+    "car_year": 2007,
+    "car_model": "Yukon XL 1500",
+    "car_price": "$11067.69",
+    "dealer_loc": "Halifax",
+    "car_km": 58794
+},
+{
+    "car_id": 1010,
+    "car_make": "Mazda",
+    "car_year": 2012,
+    "car_model": "MX-5",
+    "car_price": "$14773.85",
+    "dealer_loc": "Vancouver",
+    "car_km": 274939
+},
+{
+    "car_id": 680,
+    "car_make": "Audi",
+    "car_year": 2009,
+    "car_model": "S6",
+    "car_price": "$10094.37",
+    "dealer_loc": "Vancouver",
+    "car_km": 111103
+},
+{
+    "car_id": 680,
+    "car_make": "Jeep",
+    "car_year": 2001,
+    "car_model": "Cherokee",
+    "car_price": "$10432.86",
+    "dealer_loc": "St. John's",
+    "car_km": 296635
+},
+{
+    "car_id": 968,
+    "car_make": "Dodge",
+    "car_year": 1997,
+    "car_model": "Ram 1500 Club",
+    "car_price": "$12537.72",
+    "dealer_loc": "Corner Brook",
+    "car_km": 159638
+},
+{
+    "car_id": 670,
+    "car_make": "Ford",
+    "car_year": 1993,
+    "car_model": "Escort",
+    "car_price": "$11873.08",
+    "dealer_loc": "Toronto",
+    "car_km": 62735
+},
+{
+    "car_id": 811,
+    "car_make": "Kia",
+    "car_year": 2011,
+    "car_model": "Soul",
+    "car_price": "$10739.18",
+    "dealer_loc": "Vancouver",
+    "car_km": 174547
+},
+{
+    "car_id": 920,
+    "car_make": "Dodge",
+    "car_year": 2012,
+    "car_model": "Charger",
+    "car_price": "$13082.50",
+    "dealer_loc": "Corner Brook",
+    "car_km": 265654
+},
+{
+    "car_id": 608,
+    "car_make": "Audi",
+    "car_year": 2004,
+    "car_model": "TT",
+    "car_price": "$4295.66",
+    "dealer_loc": "St. John's",
+    "car_km": 70783
+},
+{
+    "car_id": 1076,
+    "car_make": "Ford",
+    "car_year": 2007,
+    "car_model": "Fusion",
+    "car_price": "$12433.11",
+    "dealer_loc": "Corner Brook",
+    "car_km": 79762
+},
+{
+    "car_id": 944,
+    "car_make": "Ford",
+    "car_year": 2013,
+    "car_model": "Focus ST",
+    "car_price": "$15896.18",
+    "dealer_loc": "Gander",
+    "car_km": 45936
+},
+{
+    "car_id": 920,
+    "car_make": "Isuzu",
+    "car_year": 1996,
+    "car_model": "Oasis",
+    "car_price": "$16206.36",
+    "dealer_loc": "Vancouver",
+    "car_km": 226923
+},
+{
+    "car_id": 1047,
+    "car_make": "Audi",
+    "car_year": 1996,
+    "car_model": "A4",
+    "car_price": "$20679.12",
+    "dealer_loc": "Vancouver",
+    "car_km": 118687
+},
+{
+    "car_id": 916,
+    "car_make": "Cadillac",
+    "car_year": 2010,
+    "car_model": "CTS",
+    "car_price": "$12861.94",
+    "dealer_loc": "Toronto",
+    "car_km": 79138
+},
+{
+    "car_id": 997,
+    "car_make": "Acura",
+    "car_year": 2008,
+    "car_model": "TSX",
+    "car_price": "$7060.58",
+    "dealer_loc": "Toronto",
+    "car_km": 30734
+},
+{
+    "car_id": 811,
+    "car_make": "Pontiac",
+    "car_year": 1965,
+    "car_model": "Grand Prix",
+    "car_price": "$20866.57",
+    "dealer_loc": "St. John's",
+    "car_km": 24134
+},
+{
+    "car_id": 836,
+    "car_make": "Honda",
+    "car_year": 1995,
+    "car_model": "Odyssey",
+    "car_price": "$4971.77",
+    "dealer_loc": "Toronto",
+    "car_km": 52750
+},
+{
+    "car_id": 807,
+    "car_make": "Volkswagen",
+    "car_year": 2007,
+    "car_model": "GTI",
+    "car_price": "$10406.54",
+    "dealer_loc": "St. John's",
+    "car_km": 286545
+},
+{
+    "car_id": 1071,
+    "car_make": "GMC",
+    "car_year": 2007,
+    "car_model": "Savana 2500",
+    "car_price": "$14163.11",
+    "dealer_loc": "Toronto",
+    "car_km": 81771
+},
+{
+    "car_id": 780,
+    "car_make": "Pontiac",
+    "car_year": 1966,
+    "car_model": "Tempest",
+    "car_price": "$5741.07",
+    "dealer_loc": "St. John's",
+    "car_km": 267179
+},
+{
+    "car_id": 949,
+    "car_make": "Porsche",
+    "car_year": 1985,
+    "car_model": "928",
+    "car_price": "$8960.48",
+    "dealer_loc": "Toronto",
+    "car_km": 86606
+},
+{
+    "car_id": 722,
+    "car_make": "Mercedes-Benz",
+    "car_year": 2002,
+    "car_model": "SL-Class",
+    "car_price": "$10731.62",
+    "dealer_loc": "Vancouver",
+    "car_km": 167082
+},
+{
+    "car_id": 901,
+    "car_make": "Hyundai",
+    "car_year": 2009,
+    "car_model": "Genesis",
+    "car_price": "$16212.51",
+    "dealer_loc": "Halifax",
+    "car_km": 33737
+},
+{
+    "car_id": 1093,
+    "car_make": "BMW",
+    "car_year": 1994,
+    "car_model": "8 Series",
+    "car_price": "$18405.18",
+    "dealer_loc": "Vancouver",
+    "car_km": 116450
+},
+{
+    "car_id": 674,
+    "car_make": "Ford",
+    "car_year": 1997,
+    "car_model": "Club Wagon",
+    "car_price": "$17962.90",
+    "dealer_loc": "Halifax",
+    "car_km": 160297
+},
+{
+    "car_id": 852,
+    "car_make": "Ford",
+    "car_year": 2010,
+    "car_model": "Edge",
+    "car_price": "$11155.32",
+    "dealer_loc": "Corner Brook",
+    "car_km": 269651
+},
+{
+    "car_id": 661,
+    "car_make": "Jeep",
+    "car_year": 2003,
+    "car_model": "Wrangler",
+    "car_price": "$3895.23",
+    "dealer_loc": "St. John's",
+    "car_km": 295427
+},
+{
+    "car_id": 622,
+    "car_make": "Pontiac",
+    "car_year": 2009,
+    "car_model": "G5",
+    "car_price": "$17240.30",
+    "dealer_loc": "Toronto",
+    "car_km": 132446
+},
+{
+    "car_id": 779,
+    "car_make": "Ford",
+    "car_year": 2001,
+    "car_model": "Taurus",
+    "car_price": "$5357.81",
+    "dealer_loc": "St. John's",
+    "car_km": 100717
+},
+{
+    "car_id": 745,
+    "car_make": "Toyota",
+    "car_year": 2005,
+    "car_model": "Corolla",
+    "car_price": "$16054.85",
+    "dealer_loc": "St. John's",
+    "car_km": 73623
+},
+{
+    "car_id": 922,
+    "car_make": "Mercedes-Benz",
+    "car_year": 1996,
+    "car_model": "SL-Class",
+    "car_price": "$11614.36",
+    "dealer_loc": "Gander",
+    "car_km": 24226
+},
+{
+    "car_id": 1076,
+    "car_make": "Mitsubishi",
+    "car_year": 1987,
+    "car_model": "Starion",
+    "car_price": "$9866.23",
+    "dealer_loc": "St. John's",
+    "car_km": 284445
+},
+{
+    "car_id": 629,
+    "car_make": "Oldsmobile",
+    "car_year": 1998,
+    "car_model": "LSS",
+    "car_price": "$16490.58",
+    "dealer_loc": "Gander",
+    "car_km": 199889
+},
+{
+    "car_id": 1033,
+    "car_make": "Saab",
+    "car_year": 1995,
+    "car_model": "900",
+    "car_price": "$16660.88",
+    "dealer_loc": "Corner Brook",
+    "car_km": 165333
+},
+{
+    "car_id": 763,
+    "car_make": "Volkswagen",
+    "car_year": 1995,
+    "car_model": "GTI",
+    "car_price": "$11612.79",
+    "dealer_loc": "St. John's",
+    "car_km": 49858
+},
+{
+    "car_id": 1057,
+    "car_make": "Nissan",
+    "car_year": 2011,
+    "car_model": "Pathfinder",
+    "car_price": "$10561.09",
+    "dealer_loc": "Halifax",
+    "car_km": 174814
+},
+{
+    "car_id": 612,
+    "car_make": "Land Rover",
+    "car_year": 2007,
+    "car_model": "Range Rover Sport",
+    "car_price": "$11550.86",
+    "dealer_loc": "Corner Brook",
+    "car_km": 270809
+},
+{
+    "car_id": 935,
+    "car_make": "Lexus",
+    "car_year": 2006,
+    "car_model": "LX",
+    "car_price": "$10046.94",
+    "dealer_loc": "Halifax",
+    "car_km": 160180
+},
+{
+    "car_id": 941,
+    "car_make": "Lotus",
+    "car_year": 1991,
+    "car_model": "Esprit",
+    "car_price": "$19563.45",
+    "dealer_loc": "St. John's",
+    "car_km": 168625
+},
+{
+    "car_id": 844,
+    "car_make": "Chrysler",
+    "car_year": 1994,
+    "car_model": "LHS",
+    "car_price": "$16640.00",
+    "dealer_loc": "St. John's",
+    "car_km": 243346
+},
+{
+    "car_id": 835,
+    "car_make": "Audi",
+    "car_year": 2000,
+    "car_model": "A8",
+    "car_price": "$8944.39",
+    "dealer_loc": "Gander",
+    "car_km": 244821
+},
+{
+    "car_id": 874,
+    "car_make": "Ford",
+    "car_year": 1984,
+    "car_model": "E250",
+    "car_price": "$9450.45",
+    "dealer_loc": "St. John's",
+    "car_km": 108411
+},
+{
+    "car_id": 1085,
+    "car_make": "BMW",
+    "car_year": 2005,
+    "car_model": "525",
+    "car_price": "$12356.09",
+    "dealer_loc": "Corner Brook",
+    "car_km": 264066
+},
+{
+    "car_id": 628,
+    "car_make": "Dodge",
+    "car_year": 2002,
+    "car_model": "Ram 3500",
+    "car_price": "$20195.20",
+    "dealer_loc": "Vancouver",
+    "car_km": 199106
+},
+{
+    "car_id": 992,
+    "car_make": "Dodge",
+    "car_year": 1992,
+    "car_model": "Colt",
+    "car_price": "$9131.47",
+    "dealer_loc": "Gander",
+    "car_km": 145639
+},
+{
+    "car_id": 638,
+    "car_make": "Mitsubishi",
+    "car_year": 1995,
+    "car_model": "3000GT",
+    "car_price": "$8153.36",
+    "dealer_loc": "St. John's",
+    "car_km": 134620
+},
+{
+    "car_id": 616,
+    "car_make": "Toyota",
+    "car_year": 2009,
+    "car_model": "Land Cruiser",
+    "car_price": "$11570.13",
+    "dealer_loc": "Corner Brook",
+    "car_km": 142677
+},
+{
+    "car_id": 694,
+    "car_make": "Oldsmobile",
+    "car_year": 1992,
+    "car_model": "Toronado",
+    "car_price": "$18614.37",
+    "dealer_loc": "Gander",
+    "car_km": 31906
+},
+{
+    "car_id": 1018,
+    "car_make": "Toyota",
+    "car_year": 1995,
+    "car_model": "4Runner",
+    "car_price": "$12451.17",
+    "dealer_loc": "St. John's",
+    "car_km": 185891
+},
+{
+    "car_id": 1054,
+    "car_make": "Buick",
+    "car_year": 1991,
+    "car_model": "LeSabre",
+    "car_price": "$12162.11",
+    "dealer_loc": "Halifax",
+    "car_km": 161854
+},
+{
+    "car_id": 686,
+    "car_make": "Chevrolet",
+    "car_year": 2010,
+    "car_model": "Impala",
+    "car_price": "$17117.46",
+    "dealer_loc": "Corner Brook",
+    "car_km": 124584
+},
+{
+    "car_id": 790,
+    "car_make": "Morgan",
+    "car_year": 2007,
+    "car_model": "Aero 8",
+    "car_price": "$4241.09",
+    "dealer_loc": "Corner Brook",
+    "car_km": 261913
+},
+{
+    "car_id": 784,
+    "car_make": "Buick",
+    "car_year": 1989,
+    "car_model": "Century",
+    "car_price": "$5975.75",
+    "dealer_loc": "Vancouver",
+    "car_km": 143832
+},
+{
+    "car_id": 684,
+    "car_make": "Jeep",
+    "car_year": 2007,
+    "car_model": "Patriot",
+    "car_price": "$16836.76",
+    "dealer_loc": "Corner Brook",
+    "car_km": 253342
+},
+{
+    "car_id": 744,
+    "car_make": "Toyota",
+    "car_year": 2003,
+    "car_model": "Celica",
+    "car_price": "$15767.11",
+    "dealer_loc": "Halifax",
+    "car_km": 218450
+},
+{
+    "car_id": 1056,
+    "car_make": "Isuzu",
+    "car_year": 1997,
+    "car_model": "Trooper",
+    "car_price": "$9506.92",
+    "dealer_loc": "Toronto",
+    "car_km": 80998
+},
+{
+    "car_id": 1062,
+    "car_make": "Lexus",
+    "car_year": 2008,
+    "car_model": "ES",
+    "car_price": "$7766.76",
+    "dealer_loc": "Toronto",
+    "car_km": 228374
+},
+{
+    "car_id": 662,
+    "car_make": "Lotus",
+    "car_year": 1989,
+    "car_model": "Esprit",
+    "car_price": "$18148.84",
+    "dealer_loc": "Halifax",
+    "car_km": 177225
+},
+{
+    "car_id": 834,
+    "car_make": "Chevrolet",
+    "car_year": 2003,
+    "car_model": "Suburban 1500",
+    "car_price": "$20496.42",
+    "dealer_loc": "Gander",
+    "car_km": 72912
+},
+{
+    "car_id": 604,
+    "car_make": "Mercedes-Benz",
+    "car_year": 2009,
+    "car_model": "CLS-Class",
+    "car_price": "$9423.46",
+    "dealer_loc": "Vancouver",
+    "car_km": 109020
+},
+{
+    "car_id": 605,
+    "car_make": "Buick",
+    "car_year": 2005,
+    "car_model": "Rainier",
+    "car_price": "$14266.06",
+    "dealer_loc": "Halifax",
+    "car_km": 96581
+},
+{
+    "car_id": 926,
+    "car_make": "Dodge",
+    "car_year": 2009,
+    "car_model": "Avenger",
+    "car_price": "$9689.95",
+    "dealer_loc": "Vancouver",
+    "car_km": 59209
+},
+{
+    "car_id": 978,
+    "car_make": "BMW",
+    "car_year": 2007,
+    "car_model": "Z4 M",
+    "car_price": "$18042.41",
+    "dealer_loc": "Gander",
+    "car_km": 190821
+},
+{
+    "car_id": 913,
+    "car_make": "Mazda",
+    "car_year": 2005,
+    "car_model": "Miata MX-5",
+    "car_price": "$14257.40",
+    "dealer_loc": "Gander",
+    "car_km": 61066
+},
+{
+    "car_id": 850,
+    "car_make": "Pontiac",
+    "car_year": 2009,
+    "car_model": "G6",
+    "car_price": "$10998.07",
+    "dealer_loc": "Corner Brook",
+    "car_km": 257574
+},
+{
+    "car_id": 819,
+    "car_make": "Volvo",
+    "car_year": 2011,
+    "car_model": "S60",
+    "car_price": "$3732.24",
+    "dealer_loc": "Vancouver",
+    "car_km": 43236
+},
+{
+    "car_id": 650,
+    "car_make": "Hyundai",
+    "car_year": 2007,
+    "car_model": "Accent",
+    "car_price": "$16906.51",
+    "dealer_loc": "Vancouver",
+    "car_km": 128643
+},
+{
+    "car_id": 781,
+    "car_make": "Infiniti",
+    "car_year": 2012,
+    "car_model": "EX",
+    "car_price": "$20132.81",
+    "dealer_loc": "Halifax",
+    "car_km": 200019
+},
+{
+    "car_id": 1085,
+    "car_make": "Geo",
+    "car_year": 1997,
+    "car_model": "Prizm",
+    "car_price": "$4029.44",
+    "dealer_loc": "Gander",
+    "car_km": 181481
+},
+{
+    "car_id": 877,
+    "car_make": "Nissan",
+    "car_year": 2003,
+    "car_model": "350Z",
+    "car_price": "$10059.93",
+    "dealer_loc": "Corner Brook",
+    "car_km": 165084
+},
+{
+    "car_id": 786,
+    "car_make": "Toyota",
+    "car_year": 2000,
+    "car_model": "Avalon",
+    "car_price": "$19134.18",
+    "dealer_loc": "Toronto",
+    "car_km": 62290
+},
+{
+    "car_id": 982,
+    "car_make": "Toyota",
+    "car_year": 1989,
+    "car_model": "Truck Xtracab SR5",
+    "car_price": "$15932.87",
+    "dealer_loc": "St. John's",
+    "car_km": 239700
+},
+{
+    "car_id": 857,
+    "car_make": "Toyota",
+    "car_year": 2001,
+    "car_model": "MR2",
+    "car_price": "$18004.87",
+    "dealer_loc": "Vancouver",
+    "car_km": 64590
+},
+{
+    "car_id": 624,
+    "car_make": "Mitsubishi",
+    "car_year": 2001,
+    "car_model": "Eclipse",
+    "car_price": "$17964.17",
+    "dealer_loc": "Halifax",
+    "car_km": 62232
+},
+{
+    "car_id": 759,
+    "car_make": "Mercury",
+    "car_year": 1992,
+    "car_model": "Cougar",
+    "car_price": "$13613.86",
+    "dealer_loc": "Gander",
+    "car_km": 244494
+},
+{
+    "car_id": 668,
+    "car_make": "BMW",
+    "car_year": 1994,
+    "car_model": "8 Series",
+    "car_price": "$8515.36",
+    "dealer_loc": "Toronto",
+    "car_km": 86015
+},
+{
+    "car_id": 887,
+    "car_make": "GMC",
+    "car_year": 1993,
+    "car_model": "3500",
+    "car_price": "$5111.42",
+    "dealer_loc": "Vancouver",
+    "car_km": 102441
+},
+{
+    "car_id": 1004,
+    "car_make": "Volvo",
+    "car_year": 2008,
+    "car_model": "S40",
+    "car_price": "$7092.72",
+    "dealer_loc": "Toronto",
+    "car_km": 105226
+},
+{
+    "car_id": 740,
+    "car_make": "GMC",
+    "car_year": 2006,
+    "car_model": "Sierra Denali",
+    "car_price": "$17531.55",
+    "dealer_loc": "St. John's",
+    "car_km": 148131
+},
+{
+    "car_id": 943,
+    "car_make": "Mercedes-Benz",
+    "car_year": 1992,
+    "car_model": "SL-Class",
+    "car_price": "$17958.99",
+    "dealer_loc": "Gander",
+    "car_km": 144109
+},
+{
+    "car_id": 754,
+    "car_make": "Mercedes-Benz",
+    "car_year": 2009,
+    "car_model": "M-Class",
+    "car_price": "$3922.17",
+    "dealer_loc": "St. John's",
+    "car_km": 120485
+},
+{
+    "car_id": 781,
+    "car_make": "Ford",
+    "car_year": 1999,
+    "car_model": "Contour",
+    "car_price": "$18726.89",
+    "dealer_loc": "Corner Brook",
+    "car_km": 22326
+},
+{
+    "car_id": 861,
+    "car_make": "Suzuki",
+    "car_year": 2002,
+    "car_model": "Vitara",
+    "car_price": "$14250.83",
+    "dealer_loc": "Gander",
+    "car_km": 211303
+},
+{
+    "car_id": 1001,
+    "car_make": "Chevrolet",
+    "car_year": 2012,
+    "car_model": "Silverado 3500",
+    "car_price": "$20728.65",
+    "dealer_loc": "Halifax",
+    "car_km": 216081
+},
+{
+    "car_id": 614,
+    "car_make": "Ford",
+    "car_year": 2012,
+    "car_model": "Expedition",
+    "car_price": "$10976.44",
+    "dealer_loc": "St. John's",
+    "car_km": 132983
+},
+{
+    "car_id": 648,
+    "car_make": "Suzuki",
+    "car_year": 2005,
+    "car_model": "Grand Vitara",
+    "car_price": "$17610.45",
+    "dealer_loc": "Halifax",
+    "car_km": 67091
+},
+{
+    "car_id": 1078,
+    "car_make": "Lexus",
+    "car_year": 1997,
+    "car_model": "LS",
+    "car_price": "$3227.13",
+    "dealer_loc": "Vancouver",
+    "car_km": 76688
+},
+{
+    "car_id": 895,
+    "car_make": "Volkswagen",
+    "car_year": 1997,
+    "car_model": "Cabriolet",
+    "car_price": "$13584.62",
+    "dealer_loc": "St. John's",
+    "car_km": 69505
+},
+{
+    "car_id": 1096,
+    "car_make": "Daewoo",
+    "car_year": 2001,
+    "car_model": "Nubira",
+    "car_price": "$18989.51",
+    "dealer_loc": "Halifax",
+    "car_km": 32981
+},
+{
+    "car_id": 1039,
+    "car_make": "Hyundai",
+    "car_year": 1999,
+    "car_model": "Accent",
+    "car_price": "$11731.41",
+    "dealer_loc": "St. John's",
+    "car_km": 44708
+},
+{
+    "car_id": 798,
+    "car_make": "Mercury",
+    "car_year": 2001,
+    "car_model": "Cougar",
+    "car_price": "$6466.60",
+    "dealer_loc": "St. John's",
+    "car_km": 258682
+},
+{
+    "car_id": 838,
+    "car_make": "Dodge",
+    "car_year": 1993,
+    "car_model": "Ram Van B250",
+    "car_price": "$18199.40",
+    "dealer_loc": "Gander",
+    "car_km": 220997
+},
+{
+    "car_id": 673,
+    "car_make": "Honda",
+    "car_year": 2004,
+    "car_model": "Element",
+    "car_price": "$19566.10",
+    "dealer_loc": "St. John's",
+    "car_km": 49233
+},
+{
+    "car_id": 983,
+    "car_make": "Jeep",
+    "car_year": 2001,
+    "car_model": "Cherokee",
+    "car_price": "$3563.85",
+    "dealer_loc": "Toronto",
+    "car_km": 220830
+},
+{
+    "car_id": 1099,
+    "car_make": "Toyota",
+    "car_year": 2001,
+    "car_model": "Sequoia",
+    "car_price": "$20431.87",
+    "dealer_loc": "Halifax",
+    "car_km": 167653
+},
+{
+    "car_id": 975,
+    "car_make": "Ford",
+    "car_year": 2004,
+    "car_model": "Taurus",
+    "car_price": "$12058.71",
+    "dealer_loc": "Halifax",
+    "car_km": 93480
+},
+{
+    "car_id": 1074,
+    "car_make": "Jeep",
+    "car_year": 2000,
+    "car_model": "Grand Cherokee",
+    "car_price": "$13599.34",
+    "dealer_loc": "St. John's",
+    "car_km": 194117
+},
+{
+    "car_id": 670,
+    "car_make": "Lexus",
+    "car_year": 2010,
+    "car_model": "LS Hybrid",
+    "car_price": "$6497.99",
+    "dealer_loc": "Toronto",
+    "car_km": 206612
+},
+{
+    "car_id": 969,
+    "car_make": "Chevrolet",
+    "car_year": 1973,
+    "car_model": "Camaro",
+    "car_price": "$8133.27",
+    "dealer_loc": "Gander",
+    "car_km": 289757
+},
+{
+    "car_id": 751,
+    "car_make": "Saab",
+    "car_year": 2002,
+    "car_model": "9-5",
+    "car_price": "$20571.20",
+    "dealer_loc": "Gander",
+    "car_km": 216874
+},
+{
+    "car_id": 1020,
+    "car_make": "Subaru",
+    "car_year": 1986,
+    "car_model": "XT",
+    "car_price": "$16228.85",
+    "dealer_loc": "Halifax",
+    "car_km": 260682
+},
+{
+    "car_id": 665,
+    "car_make": "Lamborghini",
+    "car_year": 2005,
+    "car_model": "Murciélago",
+    "car_price": "$6553.21",
+    "dealer_loc": "Gander",
+    "car_km": 259634
+},
+{
+    "car_id": 1001,
+    "car_make": "Ford",
+    "car_year": 2000,
+    "car_model": "Econoline E150",
+    "car_price": "$12082.77",
+    "dealer_loc": "Gander",
+    "car_km": 62395
+},
+{
+    "car_id": 1101,
+    "car_make": "Cadillac",
+    "car_year": 2007,
+    "car_model": "Escalade EXT",
+    "car_price": "$15974.30",
+    "dealer_loc": "St. John's",
+    "car_km": 273416
+},
+{
+    "car_id": 837,
+    "car_make": "Jeep",
+    "car_year": 2003,
+    "car_model": "Liberty",
+    "car_price": "$18327.22",
+    "dealer_loc": "Toronto",
+    "car_km": 100597
+},
+{
+    "car_id": 914,
+    "car_make": "Lexus",
+    "car_year": 2001,
+    "car_model": "IS",
+    "car_price": "$10339.48",
+    "dealer_loc": "Corner Brook",
+    "car_km": 136287
+},
+{
+    "car_id": 899,
+    "car_make": "Ford",
+    "car_year": 1986,
+    "car_model": "Tempo",
+    "car_price": "$18085.52",
+    "dealer_loc": "Gander",
+    "car_km": 96963
+},
+{
+    "car_id": 629,
+    "car_make": "GMC",
+    "car_year": 1996,
+    "car_model": "2500",
+    "car_price": "$18604.15",
+    "dealer_loc": "Gander",
+    "car_km": 96303
+},
+{
+    "car_id": 964,
+    "car_make": "Mazda",
+    "car_year": 2013,
+    "car_model": "Mazda6",
+    "car_price": "$20226.25",
+    "dealer_loc": "Halifax",
+    "car_km": 120124
+},
+{
+    "car_id": 856,
+    "car_make": "Volkswagen",
+    "car_year": 2009,
+    "car_model": "R32",
+    "car_price": "$10915.92",
+    "dealer_loc": "St. John's",
+    "car_km": 140588
+},
+{
+    "car_id": 803,
+    "car_make": "Lexus",
+    "car_year": 2001,
+    "car_model": "LS",
+    "car_price": "$3611.12",
+    "dealer_loc": "Gander",
+    "car_km": 99232
+},
+{
+    "car_id": 1039,
+    "car_make": "Land Rover",
+    "car_year": 2009,
+    "car_model": "LR2",
+    "car_price": "$16489.04",
+    "dealer_loc": "Toronto",
+    "car_km": 71642
+},
+{
+    "car_id": 967,
+    "car_make": "Buick",
+    "car_year": 1992,
+    "car_model": "Coachbuilder",
+    "car_price": "$20690.93",
+    "dealer_loc": "Vancouver",
+    "car_km": 134190
+},
+{
+    "car_id": 744,
+    "car_make": "Pontiac",
+    "car_year": 1987,
+    "car_model": "Firebird",
+    "car_price": "$14444.52",
+    "dealer_loc": "Toronto",
+    "car_km": 242340
+},
+{
+    "car_id": 869,
+    "car_make": "Infiniti",
+    "car_year": 2003,
+    "car_model": "G",
+    "car_price": "$19514.14",
+    "dealer_loc": "Toronto",
+    "car_km": 254489
+},
+{
+    "car_id": 1037,
+    "car_make": "Volkswagen",
+    "car_year": 2012,
+    "car_model": "Eos",
+    "car_price": "$10047.16",
+    "dealer_loc": "Gander",
+    "car_km": 242430
+},
+{
+    "car_id": 709,
+    "car_make": "Plymouth",
+    "car_year": 1993,
+    "car_model": "Acclaim",
+    "car_price": "$6086.49",
+    "dealer_loc": "St. John's",
+    "car_km": 243102
+},
+{
+    "car_id": 782,
+    "car_make": "Toyota",
+    "car_year": 2005,
+    "car_model": "Matrix",
+    "car_price": "$16310.88",
+    "dealer_loc": "St. John's",
+    "car_km": 61788
+},
+{
+    "car_id": 1069,
+    "car_make": "Hummer",
+    "car_year": 2010,
+    "car_model": "H3T",
+    "car_price": "$12262.62",
+    "dealer_loc": "Halifax",
+    "car_km": 257419
+},
+{
+    "car_id": 981,
+    "car_make": "Ford",
+    "car_year": 2012,
+    "car_model": "E-Series",
+    "car_price": "$8974.75",
+    "dealer_loc": "St. John's",
+    "car_km": 235995
+},
+{
+    "car_id": 986,
+    "car_make": "Audi",
+    "car_year": 2002,
+    "car_model": "A6",
+    "car_price": "$4297.40",
+    "dealer_loc": "Toronto",
+    "car_km": 203667
+},
+{
+    "car_id": 653,
+    "car_make": "Suzuki",
+    "car_year": 1990,
+    "car_model": "Swift",
+    "car_price": "$14090.02",
+    "dealer_loc": "Gander",
+    "car_km": 81574
+},
+{
+    "car_id": 795,
+    "car_make": "Subaru",
+    "car_year": 2007,
+    "car_model": "Forester",
+    "car_price": "$12092.61",
+    "dealer_loc": "Halifax",
+    "car_km": 205957
+},
+{
+    "car_id": 793,
+    "car_make": "Subaru",
+    "car_year": 2009,
+    "car_model": "Forester",
+    "car_price": "$9371.08",
+    "dealer_loc": "Gander",
+    "car_km": 228517
+},
+{
+    "car_id": 869,
+    "car_make": "Honda",
+    "car_year": 1995,
+    "car_model": "del Sol",
+    "car_price": "$9898.07",
+    "dealer_loc": "Halifax",
+    "car_km": 51286
+},
+{
+    "car_id": 771,
+    "car_make": "Ford",
+    "car_year": 1995,
+    "car_model": "Econoline E350",
+    "car_price": "$5758.76",
+    "dealer_loc": "Corner Brook",
+    "car_km": 249555
+},
+{
+    "car_id": 808,
+    "car_make": "Chevrolet",
+    "car_year": 1995,
+    "car_model": "Monte Carlo",
+    "car_price": "$19869.92",
+    "dealer_loc": "Vancouver",
+    "car_km": 43049
+},
+{
+    "car_id": 808,
+    "car_make": "Lincoln",
+    "car_year": 2003,
+    "car_model": "Aviator",
+    "car_price": "$9255.14",
+    "dealer_loc": "St. John's",
+    "car_km": 38048
+},
+{
+    "car_id": 665,
+    "car_make": "Oldsmobile",
+    "car_year": 1998,
+    "car_model": "88",
+    "car_price": "$12691.42",
+    "dealer_loc": "Halifax",
+    "car_km": 149543
+},
+{
+    "car_id": 1001,
+    "car_make": "Dodge",
+    "car_year": 1999,
+    "car_model": "Ram Van 3500",
+    "car_price": "$15254.59",
+    "dealer_loc": "Gander",
+    "car_km": 49889
+},
+{
+    "car_id": 881,
+    "car_make": "Mercedes-Benz",
+    "car_year": 2003,
+    "car_model": "E-Class",
+    "car_price": "$20824.76",
+    "dealer_loc": "St. John's",
+    "car_km": 165519
+},
+{
+    "car_id": 751,
+    "car_make": "GMC",
+    "car_year": 2012,
+    "car_model": "Terrain",
+    "car_price": "$7186.61",
+    "dealer_loc": "St. John's",
+    "car_km": 262687
+},
+{
+    "car_id": 678,
+    "car_make": "Honda",
+    "car_year": 2004,
+    "car_model": "Accord",
+    "car_price": "$20692.95",
+    "dealer_loc": "Corner Brook",
+    "car_km": 75896
+},
+{
+    "car_id": 977,
+    "car_make": "Lotus",
+    "car_year": 1990,
+    "car_model": "Elan",
+    "car_price": "$16133.14",
+    "dealer_loc": "Gander",
+    "car_km": 104281
+},
+{
+    "car_id": 657,
+    "car_make": "GMC",
+    "car_year": 2010,
+    "car_model": "Canyon",
+    "car_price": "$12221.37",
+    "dealer_loc": "Toronto",
+    "car_km": 244731
+},
+{
+    "car_id": 966,
+    "car_make": "Mercedes-Benz",
+    "car_year": 1989,
+    "car_model": "W201",
+    "car_price": "$19235.02",
+    "dealer_loc": "Vancouver",
+    "car_km": 277714
+},
+{
+    "car_id": 714,
+    "car_make": "Ford",
+    "car_year": 2007,
+    "car_model": "Escape",
+    "car_price": "$10359.74",
+    "dealer_loc": "Toronto",
+    "car_km": 248231
+},
+{
+    "car_id": 616,
+    "car_make": "Ford",
+    "car_year": 1986,
+    "car_model": "LTD Crown Victoria",
+    "car_price": "$17799.19",
+    "dealer_loc": "Vancouver",
+    "car_km": 236592
+},
+{
+    "car_id": 922,
+    "car_make": "Dodge",
+    "car_year": 1995,
+    "car_model": "Ram 3500",
+    "car_price": "$18726.95",
+    "dealer_loc": "Toronto",
+    "car_km": 292773
+},
+{
+    "car_id": 833,
+    "car_make": "GMC",
+    "car_year": 1992,
+    "car_model": "Sonoma",
+    "car_price": "$8069.40",
+    "dealer_loc": "Gander",
+    "car_km": 270913
+},
+{
+    "car_id": 947,
+    "car_make": "Lotus",
+    "car_year": 1986,
+    "car_model": "Esprit",
+    "car_price": "$10805.79",
+    "dealer_loc": "St. John's",
+    "car_km": 238841
+},
+{
+    "car_id": 1011,
+    "car_make": "Lexus",
+    "car_year": 2004,
+    "car_model": "GX",
+    "car_price": "$18816.87",
+    "dealer_loc": "Halifax",
+    "car_km": 200992
+},
+{
+    "car_id": 1033,
+    "car_make": "Dodge",
+    "car_year": 1993,
+    "car_model": "D350 Club",
+    "car_price": "$5397.79",
+    "dealer_loc": "St. John's",
+    "car_km": 120377
+},
+{
+    "car_id": 955,
+    "car_make": "Suzuki",
+    "car_year": 1989,
+    "car_model": "SJ",
+    "car_price": "$17850.61",
+    "dealer_loc": "St. John's",
+    "car_km": 214657
+},
+{
+    "car_id": 790,
+    "car_make": "Mazda",
+    "car_year": 2007,
+    "car_model": "B-Series",
+    "car_price": "$8948.52",
+    "dealer_loc": "Gander",
+    "car_km": 240339
+},
+{
+    "car_id": 878,
+    "car_make": "Honda",
+    "car_year": 1999,
+    "car_model": "Passport",
+    "car_price": "$17437.84",
+    "dealer_loc": "Vancouver",
+    "car_km": 219226
+},
+{
+    "car_id": 609,
+    "car_make": "Dodge",
+    "car_year": 1993,
+    "car_model": "Grand Caravan",
+    "car_price": "$20926.91",
+    "dealer_loc": "Corner Brook",
+    "car_km": 278416
+},
+{
+    "car_id": 859,
+    "car_make": "Suzuki",
+    "car_year": 2001,
+    "car_model": "Grand Vitara",
+    "car_price": "$4603.78",
+    "dealer_loc": "Gander",
+    "car_km": 83718
+},
+{
+    "car_id": 701,
+    "car_make": "Saab",
+    "car_year": 1994,
+    "car_model": "900",
+    "car_price": "$13987.44",
+    "dealer_loc": "Toronto",
+    "car_km": 220715
+},
+{
+    "car_id": 883,
+    "car_make": "Dodge",
+    "car_year": 2003,
+    "car_model": "Ram Van 1500",
+    "car_price": "$11444.56",
+    "dealer_loc": "St. John's",
+    "car_km": 49098
+},
+{
+    "car_id": 809,
+    "car_make": "Lexus",
+    "car_year": 1996,
+    "car_model": "ES",
+    "car_price": "$17861.18",
+    "dealer_loc": "Corner Brook",
+    "car_km": 211100
+},
+{
+    "car_id": 763,
+    "car_make": "Chevrolet",
+    "car_year": 2004,
+    "car_model": "Tahoe",
+    "car_price": "$11604.66",
+    "dealer_loc": "Corner Brook",
+    "car_km": 195637
+},
+{
+    "car_id": 685,
+    "car_make": "Dodge",
+    "car_year": 1995,
+    "car_model": "Intrepid",
+    "car_price": "$6430.84",
+    "dealer_loc": "Halifax",
+    "car_km": 224906
+},
+{
+    "car_id": 627,
+    "car_make": "GMC",
+    "car_year": 2009,
+    "car_model": "Savana 3500",
+    "car_price": "$3797.60",
+    "dealer_loc": "Halifax",
+    "car_km": 237968
+},
+{
+    "car_id": 938,
+    "car_make": "Dodge",
+    "car_year": 1994,
+    "car_model": "Ram Van B250",
+    "car_price": "$16034.45",
+    "dealer_loc": "Vancouver",
+    "car_km": 220560
+},
+{
+    "car_id": 1029,
+    "car_make": "Mercedes-Benz",
+    "car_year": 1992,
+    "car_model": "300SL",
+    "car_price": "$7369.53",
+    "dealer_loc": "Toronto",
+    "car_km": 117472
+},
+{
+    "car_id": 820,
+    "car_make": "Volvo",
+    "car_year": 2003,
+    "car_model": "S80",
+    "car_price": "$20925.95",
+    "dealer_loc": "Vancouver",
+    "car_km": 91865
+},
+{
+    "car_id": 660,
+    "car_make": "Porsche",
+    "car_year": 2013,
+    "car_model": "Boxster",
+    "car_price": "$18090.21",
+    "dealer_loc": "Vancouver",
+    "car_km": 292079
+},
+{
+    "car_id": 708,
+    "car_make": "Mazda",
+    "car_year": 1989,
+    "car_model": "RX-7",
+    "car_price": "$20221.64",
+    "dealer_loc": "St. John's",
+    "car_km": 97959
+},
+{
+    "car_id": 939,
+    "car_make": "Land Rover",
+    "car_year": 2000,
+    "car_model": "Discovery",
+    "car_price": "$6450.22",
+    "dealer_loc": "Toronto",
+    "car_km": 256576
+},
+{
+    "car_id": 777,
+    "car_make": "Infiniti",
+    "car_year": 2007,
+    "car_model": "G",
+    "car_price": "$12819.02",
+    "dealer_loc": "Gander",
+    "car_km": 299530
+},
+{
+    "car_id": 849,
+    "car_make": "Dodge",
+    "car_year": 1996,
+    "car_model": "Neon",
+    "car_price": "$8324.36",
+    "dealer_loc": "Halifax",
+    "car_km": 32577
+},
+{
+    "car_id": 767,
+    "car_make": "GMC",
+    "car_year": 1996,
+    "car_model": "Yukon",
+    "car_price": "$14905.49",
+    "dealer_loc": "St. John's",
+    "car_km": 28421
+},
+{
+    "car_id": 930,
+    "car_make": "MINI",
+    "car_year": 2012,
+    "car_model": "Cooper",
+    "car_price": "$12118.35",
+    "dealer_loc": "Halifax",
+    "car_km": 215449
+},
+{
+    "car_id": 823,
+    "car_make": "Maserati",
+    "car_year": 1986,
+    "car_model": "Biturbo",
+    "car_price": "$16487.00",
+    "dealer_loc": "Corner Brook",
+    "car_km": 88754
+},
+{
+    "car_id": 829,
+    "car_make": "Lotus",
+    "car_year": 2001,
+    "car_model": "Esprit",
+    "car_price": "$13101.16",
+    "dealer_loc": "Halifax",
+    "car_km": 236331
+},
+{
+    "car_id": 631,
+    "car_make": "Subaru",
+    "car_year": 2010,
+    "car_model": "Outback",
+    "car_price": "$19655.07",
+    "dealer_loc": "Toronto",
+    "car_km": 282648
+},
+{
+    "car_id": 907,
+    "car_make": "Chevrolet",
+    "car_year": 2009,
+    "car_model": "Malibu",
+    "car_price": "$8347.86",
+    "dealer_loc": "St. John's",
+    "car_km": 271865
+},
+{
+    "car_id": 839,
+    "car_make": "Ford",
+    "car_year": 2011,
+    "car_model": "F-Series Super Duty",
+    "car_price": "$4639.48",
+    "dealer_loc": "Vancouver",
+    "car_km": 192186
+},
+{
+    "car_id": 643,
+    "car_make": "GMC",
+    "car_year": 2013,
+    "car_model": "Sierra 1500",
+    "car_price": "$7748.69",
+    "dealer_loc": "Gander",
+    "car_km": 94507
+},
+{
+    "car_id": 971,
+    "car_make": "Chevrolet",
+    "car_year": 1994,
+    "car_model": "Impala",
+    "car_price": "$18937.08",
+    "dealer_loc": "St. John's",
+    "car_km": 280214
+},
+{
+    "car_id": 831,
+    "car_make": "Audi",
+    "car_year": 1985,
+    "car_model": "4000s",
+    "car_price": "$8590.57",
+    "dealer_loc": "Gander",
+    "car_km": 183933
+},
+{
+    "car_id": 605,
+    "car_make": "Ford",
+    "car_year": 1986,
+    "car_model": "Aerostar",
+    "car_price": "$5232.19",
+    "dealer_loc": "Corner Brook",
+    "car_km": 87250
+},
+{
+    "car_id": 712,
+    "car_make": "Mercedes-Benz",
+    "car_year": 2008,
+    "car_model": "CLK-Class",
+    "car_price": "$8794.66",
+    "dealer_loc": "Halifax",
+    "car_km": 198857
+},
+{
+    "car_id": 1028,
+    "car_make": "Audi",
+    "car_year": 2008,
+    "car_model": "Q7",
+    "car_price": "$15593.84",
+    "dealer_loc": "Vancouver",
+    "car_km": 97778
+},
+{
+    "car_id": 740,
+    "car_make": "Mitsubishi",
+    "car_year": 2007,
+    "car_model": "Galant",
+    "car_price": "$7122.81",
+    "dealer_loc": "Corner Brook",
+    "car_km": 212972
+},
+{
+    "car_id": 845,
+    "car_make": "GMC",
+    "car_year": 1992,
+    "car_model": "Suburban 2500",
+    "car_price": "$5707.62",
+    "dealer_loc": "St. John's",
+    "car_km": 235179
+},
+{
+    "car_id": 878,
+    "car_make": "Ford",
+    "car_year": 2011,
+    "car_model": "Transit Connect",
+    "car_price": "$6945.89",
+    "dealer_loc": "Toronto",
+    "car_km": 250856
+},
+{
+    "car_id": 1052,
+    "car_make": "GMC",
+    "car_year": 1994,
+    "car_model": "3500",
+    "car_price": "$6487.83",
+    "dealer_loc": "Vancouver",
+    "car_km": 254455
+},
+{
+    "car_id": 808,
+    "car_make": "Pontiac",
+    "car_year": 1983,
+    "car_model": "Grand Prix",
+    "car_price": "$6267.27",
+    "dealer_loc": "Corner Brook",
+    "car_km": 56124
+},
+{
+    "car_id": 603,
+    "car_make": "Toyota",
+    "car_year": 2012,
+    "car_model": "TundraMax",
+    "car_price": "$19149.60",
+    "dealer_loc": "Vancouver",
+    "car_km": 217948
+},
+{
+    "car_id": 1064,
+    "car_make": "Suzuki",
+    "car_year": 1992,
+    "car_model": "Swift",
+    "car_price": "$19151.60",
+    "dealer_loc": "Gander",
+    "car_km": 29720
+},
+{
+    "car_id": 620,
+    "car_make": "Ford",
+    "car_year": 1995,
+    "car_model": "F250",
+    "car_price": "$10375.54",
+    "dealer_loc": "Gander",
+    "car_km": 150995
+},
+{
+    "car_id": 995,
+    "car_make": "Pontiac",
+    "car_year": 1997,
+    "car_model": "Grand Prix",
+    "car_price": "$16799.82",
+    "dealer_loc": "Vancouver",
+    "car_km": 134525
+},
+{
+    "car_id": 846,
+    "car_make": "Ford",
+    "car_year": 1997,
+    "car_model": "Ranger",
+    "car_price": "$19604.96",
+    "dealer_loc": "Gander",
+    "car_km": 41396
+},
+{
+    "car_id": 754,
+    "car_make": "Buick",
+    "car_year": 1988,
+    "car_model": "Skylark",
+    "car_price": "$12661.91",
+    "dealer_loc": "Toronto",
+    "car_km": 183950
+},
+{
+    "car_id": 824,
+    "car_make": "Mercury",
+    "car_year": 2009,
+    "car_model": "Milan",
+    "car_price": "$14703.11",
+    "dealer_loc": "Vancouver",
+    "car_km": 217401
+},
+{
+    "car_id": 785,
+    "car_make": "Pontiac",
+    "car_year": 1986,
+    "car_model": "Firebird Trans Am",
+    "car_price": "$8061.71",
+    "dealer_loc": "St. John's",
+    "car_km": 157870
+},
+{
+    "car_id": 640,
+    "car_make": "Chevrolet",
+    "car_year": 1968,
+    "car_model": "Camaro",
+    "car_price": "$9579.88",
+    "dealer_loc": "Vancouver",
+    "car_km": 106722
+},
+{
+    "car_id": 906,
+    "car_make": "Honda",
+    "car_year": 1985,
+    "car_model": "Civic",
+    "car_price": "$9193.93",
+    "dealer_loc": "Vancouver",
+    "car_km": 114225
+},
+{
+    "car_id": 874,
+    "car_make": "Hyundai",
+    "car_year": 2012,
+    "car_model": "HED-5",
+    "car_price": "$11312.29",
+    "dealer_loc": "Gander",
+    "car_km": 39757
+},
+{
+    "car_id": 793,
+    "car_make": "Pontiac",
+    "car_year": 1988,
+    "car_model": "LeMans",
+    "car_price": "$19691.86",
+    "dealer_loc": "Vancouver",
+    "car_km": 55701
+},
+{
+    "car_id": 626,
+    "car_make": "Cadillac",
+    "car_year": 2006,
+    "car_model": "STS",
+    "car_price": "$12591.06",
+    "dealer_loc": "St. John's",
+    "car_km": 57003
+},
+{
+    "car_id": 849,
+    "car_make": "Ford",
+    "car_year": 2007,
+    "car_model": "Five Hundred",
+    "car_price": "$13903.31",
+    "dealer_loc": "Vancouver",
+    "car_km": 248492
+},
+{
+    "car_id": 628,
+    "car_make": "Plymouth",
+    "car_year": 1993,
+    "car_model": "Acclaim",
+    "car_price": "$6312.43",
+    "dealer_loc": "Corner Brook",
+    "car_km": 215321
+},
+{
+    "car_id": 751,
+    "car_make": "Mitsubishi",
+    "car_year": 2004,
+    "car_model": "Eclipse",
+    "car_price": "$9889.41",
+    "dealer_loc": "Toronto",
+    "car_km": 97130
+},
+{
+    "car_id": 699,
+    "car_make": "Geo",
+    "car_year": 1993,
+    "car_model": "Prizm",
+    "car_price": "$7310.09",
+    "dealer_loc": "St. John's",
+    "car_km": 271051
+},
+{
+    "car_id": 735,
+    "car_make": "Nissan",
+    "car_year": 2009,
+    "car_model": "Sentra",
+    "car_price": "$5670.92",
+    "dealer_loc": "Halifax",
+    "car_km": 255129
+},
+{
+    "car_id": 1001,
+    "car_make": "Saturn",
+    "car_year": 2000,
+    "car_model": "L-Series",
+    "car_price": "$16753.51",
+    "dealer_loc": "Corner Brook",
+    "car_km": 274608
+},
+{
+    "car_id": 1017,
+    "car_make": "Hummer",
+    "car_year": 2009,
+    "car_model": "H2",
+    "car_price": "$3507.40",
+    "dealer_loc": "St. John's",
+    "car_km": 245324
+},
+{
+    "car_id": 758,
+    "car_make": "Dodge",
+    "car_year": 1994,
+    "car_model": "Ram Van B350",
+    "car_price": "$5955.91",
+    "dealer_loc": "Vancouver",
+    "car_km": 159010
+},
+{
+    "car_id": 1064,
+    "car_make": "Mitsubishi",
+    "car_year": 2002,
+    "car_model": "Diamante",
+    "car_price": "$5451.29",
+    "dealer_loc": "St. John's",
+    "car_km": 249061
+},
+{
+    "car_id": 1019,
+    "car_make": "Volkswagen",
+    "car_year": 2009,
+    "car_model": "Eos",
+    "car_price": "$9980.09",
+    "dealer_loc": "Toronto",
+    "car_km": 172247
+},
+{
+    "car_id": 662,
+    "car_make": "Ford",
+    "car_year": 2007,
+    "car_model": "F-Series Super Duty",
+    "car_price": "$15754.83",
+    "dealer_loc": "Corner Brook",
+    "car_km": 218361
+},
+{
+    "car_id": 875,
+    "car_make": "Suzuki",
+    "car_year": 2007,
+    "car_model": "Forenza",
+    "car_price": "$16162.53",
+    "dealer_loc": "Halifax",
+    "car_km": 234039
+},
+{
+    "car_id": 786,
+    "car_make": "Mazda",
+    "car_year": 2002,
+    "car_model": "Tribute",
+    "car_price": "$8448.92",
+    "dealer_loc": "St. John's",
+    "car_km": 139397
+},
+{
+    "car_id": 1064,
+    "car_make": "GMC",
+    "car_year": 1995,
+    "car_model": "Suburban 1500",
+    "car_price": "$16498.05",
+    "dealer_loc": "St. John's",
+    "car_km": 134486
+},
+{
+    "car_id": 994,
+    "car_make": "Ford",
+    "car_year": 2013,
+    "car_model": "Fiesta",
+    "car_price": "$13626.48",
+    "dealer_loc": "St. John's",
+    "car_km": 80997
+},
+{
+    "car_id": 800,
+    "car_make": "Ford",
+    "car_year": 2005,
+    "car_model": "F250",
+    "car_price": "$20820.77",
+    "dealer_loc": "Gander",
+    "car_km": 230504
+},
+{
+    "car_id": 858,
+    "car_make": "Volvo",
+    "car_year": 2009,
+    "car_model": "S40",
+    "car_price": "$14096.83",
+    "dealer_loc": "Halifax",
+    "car_km": 245796
+},
+{
+    "car_id": 865,
+    "car_make": "Chrysler",
+    "car_year": 2004,
+    "car_model": "Crossfire",
+    "car_price": "$6830.55",
+    "dealer_loc": "Toronto",
+    "car_km": 117980
+},
+{
+    "car_id": 745,
+    "car_make": "Jaguar",
+    "car_year": 2011,
+    "car_model": "XF",
+    "car_price": "$6597.99",
+    "dealer_loc": "Gander",
+    "car_km": 218751
+},
+{
+    "car_id": 888,
+    "car_make": "Porsche",
+    "car_year": 1986,
+    "car_model": "911",
+    "car_price": "$3733.92",
+    "dealer_loc": "Corner Brook",
+    "car_km": 139074
+},
+{
+    "car_id": 1034,
+    "car_make": "Pontiac",
+    "car_year": 2010,
+    "car_model": "Vibe",
+    "car_price": "$3294.88",
+    "dealer_loc": "Halifax",
+    "car_km": 266926
+},
+{
+    "car_id": 761,
+    "car_make": "Volvo",
+    "car_year": 1992,
+    "car_model": "240",
+    "car_price": "$4672.32",
+    "dealer_loc": "Vancouver",
+    "car_km": 140043
+},
+{
+    "car_id": 644,
+    "car_make": "Lexus",
+    "car_year": 1994,
+    "car_model": "GS",
+    "car_price": "$6393.05",
+    "dealer_loc": "Vancouver",
+    "car_km": 59966
+},
+{
+    "car_id": 1083,
+    "car_make": "Mazda",
+    "car_year": 2009,
+    "car_model": "CX-7",
+    "car_price": "$7178.12",
+    "dealer_loc": "Corner Brook",
+    "car_km": 131187
+},
+{
+    "car_id": 669,
+    "car_make": "Chevrolet",
+    "car_year": 2008,
+    "car_model": "Tahoe",
+    "car_price": "$18384.10",
+    "dealer_loc": "Vancouver",
+    "car_km": 226215
+},
+{
+    "car_id": 1056,
+    "car_make": "Ford",
+    "car_year": 2006,
+    "car_model": "GT",
+    "car_price": "$10139.82",
+    "dealer_loc": "Corner Brook",
+    "car_km": 35529
+},
+{
+    "car_id": 815,
+    "car_make": "Chrysler",
+    "car_year": 2008,
+    "car_model": "300",
+    "car_price": "$13049.58",
+    "dealer_loc": "Vancouver",
+    "car_km": 287966
+},
+{
+    "car_id": 783,
+    "car_make": "Ford",
+    "car_year": 2009,
+    "car_model": "Explorer",
+    "car_price": "$5502.90",
+    "dealer_loc": "Vancouver",
+    "car_km": 197846
+},
+{
+    "car_id": 739,
+    "car_make": "Volkswagen",
+    "car_year": 2009,
+    "car_model": "Passat",
+    "car_price": "$5772.73",
+    "dealer_loc": "Toronto",
+    "car_km": 50902
+},
+{
+    "car_id": 802,
+    "car_make": "Porsche",
+    "car_year": 1985,
+    "car_model": "911",
+    "car_price": "$3335.33",
+    "dealer_loc": "Halifax",
+    "car_km": 115320
+},
+{
+    "car_id": 660,
+    "car_make": "Chevrolet",
+    "car_year": 2001,
+    "car_model": "Silverado 2500",
+    "car_price": "$15033.64",
+    "dealer_loc": "Toronto",
+    "car_km": 167077
+},
+{
+    "car_id": 910,
+    "car_make": "Infiniti",
+    "car_year": 2002,
+    "car_model": "I",
+    "car_price": "$6490.94",
+    "dealer_loc": "Corner Brook",
+    "car_km": 162991
+},
+{
+    "car_id": 627,
+    "car_make": "Dodge",
+    "car_year": 2008,
+    "car_model": "Magnum",
+    "car_price": "$10680.73",
+    "dealer_loc": "Gander",
+    "car_km": 101527
+},
+{
+    "car_id": 1020,
+    "car_make": "Ford",
+    "car_year": 1996,
+    "car_model": "Econoline E350",
+    "car_price": "$14472.30",
+    "dealer_loc": "Halifax",
+    "car_km": 276067
+},
+{
+    "car_id": 700,
+    "car_make": "Shelby",
+    "car_year": 1968,
+    "car_model": "GT500",
+    "car_price": "$5271.61",
+    "dealer_loc": "Vancouver",
+    "car_km": 90704
+},
+{
+    "car_id": 886,
+    "car_make": "Chevrolet",
+    "car_year": 2007,
+    "car_model": "Express 3500",
+    "car_price": "$14142.79",
+    "dealer_loc": "St. John's",
+    "car_km": 148408
+},
+{
+    "car_id": 904,
+    "car_make": "Buick",
+    "car_year": 2006,
+    "car_model": "Rendezvous",
+    "car_price": "$10241.34",
+    "dealer_loc": "Vancouver",
+    "car_km": 44718
+},
+{
+    "car_id": 654,
+    "car_make": "Ford",
+    "car_year": 2012,
+    "car_model": "F-Series Super Duty",
+    "car_price": "$11731.48",
+    "dealer_loc": "Gander",
+    "car_km": 193475
+},
+{
+    "car_id": 1006,
+    "car_make": "Mitsubishi",
+    "car_year": 2006,
+    "car_model": "Galant",
+    "car_price": "$4846.81",
+    "dealer_loc": "Toronto",
+    "car_km": 137786
+},
+{
+    "car_id": 773,
+    "car_make": "Scion",
+    "car_year": 2012,
+    "car_model": "xD",
+    "car_price": "$20292.59",
+    "dealer_loc": "Toronto",
+    "car_km": 225138
+},
+{
+    "car_id": 863,
+    "car_make": "Dodge",
+    "car_year": 2002,
+    "car_model": "Ram Van 3500",
+    "car_price": "$11932.35",
+    "dealer_loc": "Vancouver",
+    "car_km": 230236
+},
+{
+    "car_id": 879,
+    "car_make": "Toyota",
+    "car_year": 2008,
+    "car_model": "Prius",
+    "car_price": "$7606.36",
+    "dealer_loc": "Toronto",
+    "car_km": 273814
+},
+{
+    "car_id": 702,
+    "car_make": "Ford",
+    "car_year": 2010,
+    "car_model": "Crown Victoria",
+    "car_price": "$19365.11",
+    "dealer_loc": "Halifax",
+    "car_km": 76503
+},
+{
+    "car_id": 931,
+    "car_make": "Mitsubishi",
+    "car_year": 1986,
+    "car_model": "Galant",
+    "car_price": "$7436.73",
+    "dealer_loc": "Corner Brook",
+    "car_km": 37631
+},
+{
+    "car_id": 969,
+    "car_make": "Dodge",
+    "car_year": 2009,
+    "car_model": "Durango",
+    "car_price": "$20846.05",
+    "dealer_loc": "St. John's",
+    "car_km": 94648
+},
+{
+    "car_id": 840,
+    "car_make": "Plymouth",
+    "car_year": 1996,
+    "car_model": "Breeze",
+    "car_price": "$10892.81",
+    "dealer_loc": "Gander",
+    "car_km": 61799
+},
+{
+    "car_id": 953,
+    "car_make": "Hyundai",
+    "car_year": 2005,
+    "car_model": "Elantra",
+    "car_price": "$17546.55",
+    "dealer_loc": "Gander",
+    "car_km": 212218
+},
+{
+    "car_id": 1081,
+    "car_make": "Mazda",
+    "car_year": 2010,
+    "car_model": "Miata MX-5",
+    "car_price": "$3512.29",
+    "dealer_loc": "Vancouver",
+    "car_km": 265858
+},
+{
+    "car_id": 960,
+    "car_make": "Dodge",
+    "car_year": 1999,
+    "car_model": "Ram Van 1500",
+    "car_price": "$11889.41",
+    "dealer_loc": "Toronto",
+    "car_km": 260286
+},
+{
+    "car_id": 880,
+    "car_make": "Mercury",
+    "car_year": 1986,
+    "car_model": "Lynx",
+    "car_price": "$11091.50",
+    "dealer_loc": "Gander",
+    "car_km": 52531
+},
+{
+    "car_id": 888,
+    "car_make": "Mercury",
+    "car_year": 2004,
+    "car_model": "Marauder",
+    "car_price": "$19986.77",
+    "dealer_loc": "Vancouver",
+    "car_km": 20783
+},
+{
+    "car_id": 709,
+    "car_make": "Ford",
+    "car_year": 2006,
+    "car_model": "E150",
+    "car_price": "$5233.31",
+    "dealer_loc": "St. John's",
+    "car_km": 194428
+},
+{
+    "car_id": 647,
+    "car_make": "Ford",
+    "car_year": 1988,
+    "car_model": "LTD Crown Victoria",
+    "car_price": "$6974.64",
+    "dealer_loc": "Vancouver",
+    "car_km": 52387
+},
+{
+    "car_id": 961,
+    "car_make": "Volkswagen",
+    "car_year": 1987,
+    "car_model": "Passat",
+    "car_price": "$9894.34",
+    "dealer_loc": "Toronto",
+    "car_km": 166090
+},
+{
+    "car_id": 671,
+    "car_make": "Mazda",
+    "car_year": 2007,
+    "car_model": "CX-7",
+    "car_price": "$7004.00",
+    "dealer_loc": "Gander",
+    "car_km": 240142
+},
+{
+    "car_id": 1040,
+    "car_make": "Mercury",
+    "car_year": 2004,
+    "car_model": "Mountaineer",
+    "car_price": "$13716.05",
+    "dealer_loc": "Toronto",
+    "car_km": 244907
+},
+{
+    "car_id": 784,
+    "car_make": "Toyota",
+    "car_year": 2007,
+    "car_model": "Camry Hybrid",
+    "car_price": "$4342.65",
+    "dealer_loc": "St. John's",
+    "car_km": 175208
+},
+{
+    "car_id": 733,
+    "car_make": "Lexus",
+    "car_year": 2010,
+    "car_model": "LX",
+    "car_price": "$12722.09",
+    "dealer_loc": "Gander",
+    "car_km": 260014
+},
+{
+    "car_id": 833,
+    "car_make": "Dodge",
+    "car_year": 1996,
+    "car_model": "Ram Van 3500",
+    "car_price": "$19938.32",
+    "dealer_loc": "Halifax",
+    "car_km": 76721
+},
+{
+    "car_id": 693,
+    "car_make": "Dodge",
+    "car_year": 2012,
+    "car_model": "Grand Caravan",
+    "car_price": "$14752.68",
+    "dealer_loc": "Corner Brook",
+    "car_km": 102409
+},
+{
+    "car_id": 746,
+    "car_make": "Land Rover",
+    "car_year": 2003,
+    "car_model": "Range Rover",
+    "car_price": "$10764.85",
+    "dealer_loc": "Gander",
+    "car_km": 173807
+},
+{
+    "car_id": 867,
+    "car_make": "GMC",
+    "car_year": 1995,
+    "car_model": "Vandura G2500",
+    "car_price": "$5877.42",
+    "dealer_loc": "St. John's",
+    "car_km": 138264
+},
+{
+    "car_id": 900,
+    "car_make": "Volkswagen",
+    "car_year": 1993,
+    "car_model": "Cabriolet",
+    "car_price": "$15304.23",
+    "dealer_loc": "Vancouver",
+    "car_km": 115506
+},
+{
+    "car_id": 1097,
+    "car_make": "Ford",
+    "car_year": 2008,
+    "car_model": "Taurus",
+    "car_price": "$5139.50",
+    "dealer_loc": "Corner Brook",
+    "car_km": 113744
+},
+{
+    "car_id": 740,
+    "car_make": "Chevrolet",
+    "car_year": 2001,
+    "car_model": "Corvette",
+    "car_price": "$10165.13",
+    "dealer_loc": "Corner Brook",
+    "car_km": 167657
+},
+{
+    "car_id": 804,
+    "car_make": "Subaru",
+    "car_year": 2011,
+    "car_model": "Tribeca",
+    "car_price": "$19202.46",
+    "dealer_loc": "Corner Brook",
+    "car_km": 246330
+},
+{
+    "car_id": 942,
+    "car_make": "Chevrolet",
+    "car_year": 1996,
+    "car_model": "Camaro",
+    "car_price": "$20929.18",
+    "dealer_loc": "Halifax",
+    "car_km": 216542
+},
+{
+    "car_id": 705,
+    "car_make": "Mercedes-Benz",
+    "car_year": 1992,
+    "car_model": "300SD",
+    "car_price": "$13311.43",
+    "dealer_loc": "St. John's",
+    "car_km": 154466
+},
+{
+    "car_id": 769,
+    "car_make": "Geo",
+    "car_year": 1992,
+    "car_model": "Storm",
+    "car_price": "$5976.89",
+    "dealer_loc": "Gander",
+    "car_km": 158994
+},
+{
+    "car_id": 724,
+    "car_make": "Lamborghini",
+    "car_year": 2009,
+    "car_model": "Gallardo",
+    "car_price": "$12771.17",
+    "dealer_loc": "Corner Brook",
+    "car_km": 289763
+},
+{
+    "car_id": 861,
+    "car_make": "Nissan",
+    "car_year": 2011,
+    "car_model": "Armada",
+    "car_price": "$3509.69",
+    "dealer_loc": "Halifax",
+    "car_km": 123935
+},
+{
+    "car_id": 609,
+    "car_make": "Lamborghini",
+    "car_year": 2009,
+    "car_model": "Gallardo",
+    "car_price": "$14304.77",
+    "dealer_loc": "St. John's",
+    "car_km": 261612
+},
+{
+    "car_id": 877,
+    "car_make": "Ford",
+    "car_year": 1990,
+    "car_model": "Tempo",
+    "car_price": "$4233.34",
+    "dealer_loc": "St. John's",
+    "car_km": 236148
+},
+{
+    "car_id": 1058,
+    "car_make": "BMW",
+    "car_year": 1999,
+    "car_model": "Z3",
+    "car_price": "$9901.56",
+    "dealer_loc": "St. John's",
+    "car_km": 20977
+},
+{
+    "car_id": 885,
+    "car_make": "Volkswagen",
+    "car_year": 2007,
+    "car_model": "GTI",
+    "car_price": "$12692.67",
+    "dealer_loc": "Halifax",
+    "car_km": 225923
+},
+{
+    "car_id": 688,
+    "car_make": "GMC",
+    "car_year": 2005,
+    "car_model": "Canyon",
+    "car_price": "$10888.81",
+    "dealer_loc": "Corner Brook",
+    "car_km": 241546
+},
+{
+    "car_id": 843,
+    "car_make": "Pontiac",
+    "car_year": 1990,
+    "car_model": "Turbo Firefly",
+    "car_price": "$7692.45",
+    "dealer_loc": "Toronto",
+    "car_km": 205197
+},
+{
+    "car_id": 666,
+    "car_make": "Volvo",
+    "car_year": 2009,
+    "car_model": "S80",
+    "car_price": "$4397.53",
+    "dealer_loc": "Halifax",
+    "car_km": 263863
+},
+{
+    "car_id": 1042,
+    "car_make": "Toyota",
+    "car_year": 2005,
+    "car_model": "Avalon",
+    "car_price": "$6220.19",
+    "dealer_loc": "Toronto",
+    "car_km": 284295
+},
+{
+    "car_id": 850,
+    "car_make": "Chevrolet",
+    "car_year": 2007,
+    "car_model": "Cobalt SS",
+    "car_price": "$5381.53",
+    "dealer_loc": "Corner Brook",
+    "car_km": 269428
+},
+{
+    "car_id": 841,
+    "car_make": "Honda",
+    "car_year": 2002,
+    "car_model": "CR-V",
+    "car_price": "$12688.99",
+    "dealer_loc": "Toronto",
+    "car_km": 275937
+},
+{
+    "car_id": 892,
+    "car_make": "Porsche",
+    "car_year": 2005,
+    "car_model": "Boxster",
+    "car_price": "$11773.76",
+    "dealer_loc": "Corner Brook",
+    "car_km": 245537
+},
+{
+    "car_id": 828,
+    "car_make": "Hyundai",
+    "car_year": 2005,
+    "car_model": "XG350",
+    "car_price": "$19705.98",
+    "dealer_loc": "Halifax",
+    "car_km": 299617
+},
+{
+    "car_id": 1065,
+    "car_make": "Mitsubishi",
+    "car_year": 2011,
+    "car_model": "Lancer Evolution",
+    "car_price": "$8830.41",
+    "dealer_loc": "Vancouver",
+    "car_km": 221491
+},
+{
+    "car_id": 779,
+    "car_make": "Infiniti",
+    "car_year": 1998,
+    "car_model": "QX",
+    "car_price": "$17266.94",
+    "dealer_loc": "Vancouver",
+    "car_km": 78168
+},
+{
+    "car_id": 1034,
+    "car_make": "Infiniti",
+    "car_year": 2010,
+    "car_model": "QX",
+    "car_price": "$9058.62",
+    "dealer_loc": "Halifax",
+    "car_km": 254393
+},
+{
+    "car_id": 733,
+    "car_make": "Acura",
+    "car_year": 1993,
+    "car_model": "NSX",
+    "car_price": "$8432.78",
+    "dealer_loc": "Corner Brook",
+    "car_km": 234222
+},
+{
+    "car_id": 794,
+    "car_make": "GMC",
+    "car_year": 2004,
+    "car_model": "Savana 1500",
+    "car_price": "$3012.37",
+    "dealer_loc": "Corner Brook",
+    "car_km": 32291
+},
+{
+    "car_id": 1028,
+    "car_make": "Mazda",
+    "car_year": 2007,
+    "car_model": "RX-8",
+    "car_price": "$10196.28",
+    "dealer_loc": "Corner Brook",
+    "car_km": 282893
+},
+{
+    "car_id": 1075,
+    "car_make": "Mazda",
+    "car_year": 2005,
+    "car_model": "Miata MX-5",
+    "car_price": "$12829.84",
+    "dealer_loc": "Toronto",
+    "car_km": 168475
+},
+{
+    "car_id": 699,
+    "car_make": "Mercury",
+    "car_year": 2001,
+    "car_model": "Villager",
+    "car_price": "$5069.49",
+    "dealer_loc": "Corner Brook",
+    "car_km": 260158
+},
+{
+    "car_id": 753,
+    "car_make": "Jeep",
+    "car_year": 2012,
+    "car_model": "Compass",
+    "car_price": "$12984.92",
+    "dealer_loc": "Vancouver",
+    "car_km": 31537
+},
+{
+    "car_id": 1024,
+    "car_make": "BMW",
+    "car_year": 2002,
+    "car_model": "M5",
+    "car_price": "$8289.41",
+    "dealer_loc": "St. John's",
+    "car_km": 70846
+},
+{
+    "car_id": 1003,
+    "car_make": "Pontiac",
+    "car_year": 1999,
+    "car_model": "Trans Sport",
+    "car_price": "$11693.38",
+    "dealer_loc": "Halifax",
+    "car_km": 30453
+},
+{
+    "car_id": 910,
+    "car_make": "Mitsubishi",
+    "car_year": 2004,
+    "car_model": "Challenger",
+    "car_price": "$10424.90",
+    "dealer_loc": "Vancouver",
+    "car_km": 49102
+},
+{
+    "car_id": 738,
+    "car_make": "Jaguar",
+    "car_year": 2008,
+    "car_model": "S-Type",
+    "car_price": "$16015.09",
+    "dealer_loc": "Halifax",
+    "car_km": 193445
+},
+{
+    "car_id": 1037,
+    "car_make": "Chevrolet",
+    "car_year": 2007,
+    "car_model": "Monte Carlo",
+    "car_price": "$11644.03",
+    "dealer_loc": "St. John's",
+    "car_km": 295428
+},
+{
+    "car_id": 638,
+    "car_make": "Dodge",
+    "car_year": 1996,
+    "car_model": "Stealth",
+    "car_price": "$14738.83",
+    "dealer_loc": "Gander",
+    "car_km": 129474
+},
+{
+    "car_id": 1054,
+    "car_make": "Volvo",
+    "car_year": 2004,
+    "car_model": "S40",
+    "car_price": "$15407.56",
+    "dealer_loc": "Vancouver",
+    "car_km": 272344
+},
+{
+    "car_id": 1044,
+    "car_make": "Audi",
+    "car_year": 1997,
+    "car_model": "A6",
+    "car_price": "$17364.54",
+    "dealer_loc": "St. John's",
+    "car_km": 267505
+},
+{
+    "car_id": 635,
+    "car_make": "Jeep",
+    "car_year": 2008,
+    "car_model": "Compass",
+    "car_price": "$7962.18",
+    "dealer_loc": "Corner Brook",
+    "car_km": 71078
+},
+{
+    "car_id": 665,
+    "car_make": "Toyota",
+    "car_year": 2010,
+    "car_model": "Prius",
+    "car_price": "$14243.22",
+    "dealer_loc": "Vancouver",
+    "car_km": 248827
+},
+{
+    "car_id": 640,
+    "car_make": "Geo",
+    "car_year": 1996,
+    "car_model": "Tracker",
+    "car_price": "$10682.91",
+    "dealer_loc": "St. John's",
+    "car_km": 214087
+},
+{
+    "car_id": 969,
+    "car_make": "Ford",
+    "car_year": 1955,
+    "car_model": "Thunderbird",
+    "car_price": "$8812.39",
+    "dealer_loc": "Halifax",
+    "car_km": 199989
+},
+{
+    "car_id": 1057,
+    "car_make": "BMW",
+    "car_year": 2007,
+    "car_model": "7 Series",
+    "car_price": "$9592.81",
+    "dealer_loc": "Toronto",
+    "car_km": 223325
+},
+{
+    "car_id": 724,
+    "car_make": "BMW",
+    "car_year": 2001,
+    "car_model": "M",
+    "car_price": "$3079.88",
+    "dealer_loc": "Toronto",
+    "car_km": 295135
+},
+{
+    "car_id": 892,
+    "car_make": "Volkswagen",
+    "car_year": 1999,
+    "car_model": "Passat",
+    "car_price": "$12910.97",
+    "dealer_loc": "Corner Brook",
+    "car_km": 213838
+},
+{
+    "car_id": 775,
+    "car_make": "Pontiac",
+    "car_year": 1967,
+    "car_model": "LeMans",
+    "car_price": "$5486.51",
+    "dealer_loc": "Halifax",
+    "car_km": 281000
+},
+{
+    "car_id": 897,
+    "car_make": "Subaru",
+    "car_year": 1985,
+    "car_model": "XT",
+    "car_price": "$4302.01",
+    "dealer_loc": "Gander",
+    "car_km": 210825
+},
+{
+    "car_id": 733,
+    "car_make": "Mitsubishi",
+    "car_year": 2005,
+    "car_model": "Eclipse",
+    "car_price": "$12840.31",
+    "dealer_loc": "Corner Brook",
+    "car_km": 172901
+},
+{
+    "car_id": 728,
+    "car_make": "Chevrolet",
+    "car_year": 1973,
+    "car_model": "Camaro",
+    "car_price": "$6763.21",
+    "dealer_loc": "Vancouver",
+    "car_km": 182893
+},
+{
+    "car_id": 630,
+    "car_make": "GMC",
+    "car_year": 2000,
+    "car_model": "Yukon Denali",
+    "car_price": "$13303.65",
+    "dealer_loc": "St. John's",
+    "car_km": 218029
+},
+{
+    "car_id": 634,
+    "car_make": "Plymouth",
+    "car_year": 1999,
+    "car_model": "Voyager",
+    "car_price": "$10546.36",
+    "dealer_loc": "Toronto",
+    "car_km": 130545
+},
+{
+    "car_id": 1036,
+    "car_make": "Chevrolet",
+    "car_year": 2004,
+    "car_model": "TrailBlazer",
+    "car_price": "$5487.77",
+    "dealer_loc": "Corner Brook",
+    "car_km": 41270
+},
+{
+    "car_id": 820,
+    "car_make": "Infiniti",
+    "car_year": 2007,
+    "car_model": "G35",
+    "car_price": "$15981.73",
+    "dealer_loc": "Vancouver",
+    "car_km": 238930
+},
+{
+    "car_id": 1098,
+    "car_make": "Chevrolet",
+    "car_year": 2004,
+    "car_model": "Astro",
+    "car_price": "$17156.14",
+    "dealer_loc": "Gander",
+    "car_km": 243075
+},
+{
+    "car_id": 861,
+    "car_make": "Toyota",
+    "car_year": 1996,
+    "car_model": "Tercel",
+    "car_price": "$8618.23",
+    "dealer_loc": "Toronto",
+    "car_km": 82806
+},
+{
+    "car_id": 811,
+    "car_make": "Pontiac",
+    "car_year": 2007,
+    "car_model": "G5",
+    "car_price": "$15593.34",
+    "dealer_loc": "Toronto",
+    "car_km": 268057
+},
+{
+    "car_id": 624,
+    "car_make": "GMC",
+    "car_year": 2009,
+    "car_model": "Savana",
+    "car_price": "$18129.93",
+    "dealer_loc": "Halifax",
+    "car_km": 91372
+},
+{
+    "car_id": 1090,
+    "car_make": "Toyota",
+    "car_year": 1996,
+    "car_model": "T100",
+    "car_price": "$14368.29",
+    "dealer_loc": "Toronto",
+    "car_km": 286923
+},
+{
+    "car_id": 846,
+    "car_make": "Mercedes-Benz",
+    "car_year": 2008,
+    "car_model": "C-Class",
+    "car_price": "$8718.49",
+    "dealer_loc": "Vancouver",
+    "car_km": 91223
+},
+{
+    "car_id": 803,
+    "car_make": "Mitsubishi",
+    "car_year": 1995,
+    "car_model": "Pajero",
+    "car_price": "$16697.87",
+    "dealer_loc": "St. John's",
+    "car_km": 61279
+},
+{
+    "car_id": 865,
+    "car_make": "Mitsubishi",
+    "car_year": 1992,
+    "car_model": "Galant",
+    "car_price": "$16238.74",
+    "dealer_loc": "Toronto",
+    "car_km": 24206
+},
+{
+    "car_id": 1067,
+    "car_make": "Chevrolet",
+    "car_year": 2008,
+    "car_model": "Malibu",
+    "car_price": "$11851.55",
+    "dealer_loc": "Toronto",
+    "car_km": 242341
+},
+{
+    "car_id": 796,
+    "car_make": "Audi",
+    "car_year": 2006,
+    "car_model": "A4",
+    "car_price": "$12217.06",
+    "dealer_loc": "Toronto",
+    "car_km": 230167
+},
+{
+    "car_id": 841,
+    "car_make": "Ford",
+    "car_year": 1993,
+    "car_model": "Thunderbird",
+    "car_price": "$7515.71",
+    "dealer_loc": "Vancouver",
+    "car_km": 184649
+},
+{
+    "car_id": 881,
+    "car_make": "Toyota",
+    "car_year": 2001,
+    "car_model": "Land Cruiser",
+    "car_price": "$18956.73",
+    "dealer_loc": "Vancouver",
+    "car_km": 22498
+},
+{
+    "car_id": 1058,
+    "car_make": "BMW",
+    "car_year": 1999,
+    "car_model": "3 Series",
+    "car_price": "$6630.64",
+    "dealer_loc": "Corner Brook",
+    "car_km": 152553
+},
+{
+    "car_id": 839,
+    "car_make": "Ford",
+    "car_year": 2002,
+    "car_model": "ZX2",
+    "car_price": "$16394.77",
+    "dealer_loc": "Gander",
+    "car_km": 237511
+},
+{
+    "car_id": 718,
+    "car_make": "Toyota",
+    "car_year": 1996,
+    "car_model": "Supra",
+    "car_price": "$15971.34",
+    "dealer_loc": "Toronto",
+    "car_km": 140446
+},
+{
+    "car_id": 946,
+    "car_make": "Mercedes-Benz",
+    "car_year": 1985,
+    "car_model": "W201",
+    "car_price": "$10544.10",
+    "dealer_loc": "Corner Brook",
+    "car_km": 29045
+},
+{
+    "car_id": 1047,
+    "car_make": "Dodge",
+    "car_year": 2000,
+    "car_model": "Dakota Club",
+    "car_price": "$19173.50",
+    "dealer_loc": "Toronto",
+    "car_km": 214453
+},
+{
+    "car_id": 1091,
+    "car_make": "Chevrolet",
+    "car_year": 1993,
+    "car_model": "Sportvan G10",
+    "car_price": "$9020.51",
+    "dealer_loc": "Halifax",
+    "car_km": 30303
+},
+{
+    "car_id": 675,
+    "car_make": "Toyota",
+    "car_year": 2008,
+    "car_model": "FJ Cruiser",
+    "car_price": "$20681.07",
+    "dealer_loc": "Toronto",
+    "car_km": 146497
+},
+{
+    "car_id": 671,
+    "car_make": "Mitsubishi",
+    "car_year": 1991,
+    "car_model": "Pajero",
+    "car_price": "$15563.04",
+    "dealer_loc": "Toronto",
+    "car_km": 85439
+},
+{
+    "car_id": 914,
+    "car_make": "Porsche",
+    "car_year": 1984,
+    "car_model": "944",
+    "car_price": "$9897.56",
+    "dealer_loc": "Gander",
+    "car_km": 84977
+},
+{
+    "car_id": 967,
+    "car_make": "Porsche",
+    "car_year": 2011,
+    "car_model": "Cayman",
+    "car_price": "$18276.93",
+    "dealer_loc": "St. John's",
+    "car_km": 167241
+},
+{
+    "car_id": 1041,
+    "car_make": "Ford",
+    "car_year": 1974,
+    "car_model": "Mustang",
+    "car_price": "$19915.14",
+    "dealer_loc": "Halifax",
+    "car_km": 147743
+},
+{
+    "car_id": 725,
+    "car_make": "Mercury",
+    "car_year": 2007,
+    "car_model": "Monterey",
+    "car_price": "$19590.71",
+    "dealer_loc": "Vancouver",
+    "car_km": 41337
+},
+{
+    "car_id": 682,
+    "car_make": "Lexus",
+    "car_year": 2010,
+    "car_model": "HS",
+    "car_price": "$17873.31",
+    "dealer_loc": "Gander",
+    "car_km": 113906
+},
+{
+    "car_id": 990,
+    "car_make": "Chevrolet",
+    "car_year": 1993,
+    "car_model": "1500",
+    "car_price": "$16270.31",
+    "dealer_loc": "St. John's",
+    "car_km": 66245
+},
+{
+    "car_id": 735,
+    "car_make": "Dodge",
+    "car_year": 2003,
+    "car_model": "Ram 2500",
+    "car_price": "$11043.79",
+    "dealer_loc": "Halifax",
+    "car_km": 119897
+},
+{
+    "car_id": 625,
+    "car_make": "Lexus",
+    "car_year": 2007,
+    "car_model": "RX",
+    "car_price": "$19417.94",
+    "dealer_loc": "Halifax",
+    "car_km": 216727
+},
+{
+    "car_id": 959,
+    "car_make": "Porsche",
+    "car_year": 1999,
+    "car_model": "911",
+    "car_price": "$6996.20",
+    "dealer_loc": "Vancouver",
+    "car_km": 138498
+},
+{
+    "car_id": 894,
+    "car_make": "Nissan",
+    "car_year": 1996,
+    "car_model": "Maxima",
+    "car_price": "$11306.75",
+    "dealer_loc": "Gander",
+    "car_km": 179419
+},
+{
+    "car_id": 675,
+    "car_make": "GMC",
+    "car_year": 2006,
+    "car_model": "Sierra Denali",
+    "car_price": "$5431.58",
+    "dealer_loc": "Corner Brook",
+    "car_km": 28184
+},
+{
+    "car_id": 848,
+    "car_make": "Ford",
+    "car_year": 1996,
+    "car_model": "Escort",
+    "car_price": "$7796.60",
+    "dealer_loc": "Toronto",
+    "car_km": 258635
+},
+{
+    "car_id": 1021,
+    "car_make": "Buick",
+    "car_year": 1990,
+    "car_model": "Riviera",
+    "car_price": "$10052.14",
+    "dealer_loc": "Corner Brook",
+    "car_km": 38387
+},
+{
+    "car_id": 656,
+    "car_make": "Geo",
+    "car_year": 1992,
+    "car_model": "Tracker",
+    "car_price": "$5468.89",
+    "dealer_loc": "Halifax",
+    "car_km": 165925
+},
+{
+    "car_id": 1052,
+    "car_make": "BMW",
+    "car_year": 2010,
+    "car_model": "X5",
+    "car_price": "$19614.91",
+    "dealer_loc": "Toronto",
+    "car_km": 128182
+},
+{
+    "car_id": 1026,
+    "car_make": "Buick",
+    "car_year": 1992,
+    "car_model": "Century",
+    "car_price": "$11839.24",
+    "dealer_loc": "Halifax",
+    "car_km": 119589
+},
+{
+    "car_id": 822,
+    "car_make": "Chevrolet",
+    "car_year": 2009,
+    "car_model": "Corvette",
+    "car_price": "$6320.38",
+    "dealer_loc": "Corner Brook",
+    "car_km": 20059
+},
+{
+    "car_id": 971,
+    "car_make": "Chevrolet",
+    "car_year": 1996,
+    "car_model": "Tahoe",
+    "car_price": "$20603.77",
+    "dealer_loc": "Vancouver",
+    "car_km": 243416
+},
+{
+    "car_id": 610,
+    "car_make": "Buick",
+    "car_year": 1992,
+    "car_model": "Coachbuilder",
+    "car_price": "$7935.27",
+    "dealer_loc": "Vancouver",
+    "car_km": 32780
+},
+{
+    "car_id": 681,
+    "car_make": "Mercedes-Benz",
+    "car_year": 1991,
+    "car_model": "SL-Class",
+    "car_price": "$20327.39",
+    "dealer_loc": "Vancouver",
+    "car_km": 107787
+},
+{
+    "car_id": 886,
+    "car_make": "Oldsmobile",
+    "car_year": 2002,
+    "car_model": "Alero",
+    "car_price": "$4736.10",
+    "dealer_loc": "St. John's",
+    "car_km": 174806
+},
+{
+    "car_id": 759,
+    "car_make": "Pontiac",
+    "car_year": 2009,
+    "car_model": "Vibe",
+    "car_price": "$7121.75",
+    "dealer_loc": "Corner Brook",
+    "car_km": 259245
+},
+{
+    "car_id": 943,
+    "car_make": "Chrysler",
+    "car_year": 2000,
+    "car_model": "Cirrus",
+    "car_price": "$6110.50",
+    "dealer_loc": "St. John's",
+    "car_km": 273183
+},
+{
+    "car_id": 1057,
+    "car_make": "Oldsmobile",
+    "car_year": 1999,
+    "car_model": "Cutlass",
+    "car_price": "$8156.17",
+    "dealer_loc": "St. John's",
+    "car_km": 68532
+},
+{
+    "car_id": 1070,
+    "car_make": "Dodge",
+    "car_year": 2004,
+    "car_model": "Dakota Club",
+    "car_price": "$6152.40",
+    "dealer_loc": "St. John's",
+    "car_km": 172329
+},
+{
+    "car_id": 1010,
+    "car_make": "Honda",
+    "car_year": 1998,
+    "car_model": "CR-V",
+    "car_price": "$12287.47",
+    "dealer_loc": "Halifax",
+    "car_km": 79012
+},
+{
+    "car_id": 653,
+    "car_make": "BMW",
+    "car_year": 2006,
+    "car_model": "650",
+    "car_price": "$17237.24",
+    "dealer_loc": "Toronto",
+    "car_km": 222333
+},
+{
+    "car_id": 800,
+    "car_make": "Nissan",
+    "car_year": 2006,
+    "car_model": "350Z",
+    "car_price": "$13186.81",
+    "dealer_loc": "St. John's",
+    "car_km": 73043
+},
+{
+    "car_id": 690,
+    "car_make": "Ford",
+    "car_year": 1993,
+    "car_model": "Festiva",
+    "car_price": "$5825.72",
+    "dealer_loc": "Gander",
+    "car_km": 188443
+},
+{
+    "car_id": 745,
+    "car_make": "GMC",
+    "car_year": 2005,
+    "car_model": "Savana 2500",
+    "car_price": "$6914.40",
+    "dealer_loc": "Halifax",
+    "car_km": 128737
+},
+{
+    "car_id": 931,
+    "car_make": "Saturn",
+    "car_year": 2007,
+    "car_model": "Aura",
+    "car_price": "$18664.38",
+    "dealer_loc": "Corner Brook",
+    "car_km": 39601
+},
+{
+    "car_id": 729,
+    "car_make": "Volkswagen",
+    "car_year": 1996,
+    "car_model": "Cabriolet",
+    "car_price": "$18412.35",
+    "dealer_loc": "Corner Brook",
+    "car_km": 213058
+},
+{
+    "car_id": 1080,
+    "car_make": "Lexus",
+    "car_year": 2007,
+    "car_model": "LX",
+    "car_price": "$16199.97",
+    "dealer_loc": "St. John's",
+    "car_km": 26674
+},
+{
+    "car_id": 1101,
+    "car_make": "Mercedes-Benz",
+    "car_year": 1993,
+    "car_model": "500SEC",
+    "car_price": "$15324.11",
+    "dealer_loc": "Vancouver",
+    "car_km": 92428
+},
+{
+    "car_id": 1000,
+    "car_make": "Suzuki",
+    "car_year": 1996,
+    "car_model": "X-90",
+    "car_price": "$15103.95",
+    "dealer_loc": "Corner Brook",
+    "car_km": 289108
+},
+{
+    "car_id": 1088,
+    "car_make": "Hyundai",
+    "car_year": 2011,
+    "car_model": "Sonata",
+    "car_price": "$6068.85",
+    "dealer_loc": "Toronto",
+    "car_km": 111958
+},
+{
+    "car_id": 643,
+    "car_make": "Pontiac",
+    "car_year": 1989,
+    "car_model": "Safari",
+    "car_price": "$10355.66",
+    "dealer_loc": "Toronto",
+    "car_km": 51462
+},
+{
+    "car_id": 848,
+    "car_make": "Toyota",
+    "car_year": 2000,
+    "car_model": "Solara",
+    "car_price": "$10893.16",
+    "dealer_loc": "Corner Brook",
+    "car_km": 114252
+},
+{
+    "car_id": 899,
+    "car_make": "Oldsmobile",
+    "car_year": 1996,
+    "car_model": "98",
+    "car_price": "$5248.49",
+    "dealer_loc": "Gander",
+    "car_km": 98136
+},
+{
+    "car_id": 749,
+    "car_make": "Saturn",
+    "car_year": 2000,
+    "car_model": "S-Series",
+    "car_price": "$7632.60",
+    "dealer_loc": "Toronto",
+    "car_km": 143350
+},
+{
+    "car_id": 890,
+    "car_make": "Mitsubishi",
+    "car_year": 2002,
+    "car_model": "Lancer Evolution",
+    "car_price": "$3690.45",
+    "dealer_loc": "Gander",
+    "car_km": 220694
+},
+{
+    "car_id": 659,
+    "car_make": "Subaru",
+    "car_year": 2007,
+    "car_model": "B9 Tribeca",
+    "car_price": "$11166.64",
+    "dealer_loc": "Corner Brook",
+    "car_km": 163431
+},
+{
+    "car_id": 611,
+    "car_make": "Lincoln",
+    "car_year": 1994,
+    "car_model": "Continental",
+    "car_price": "$13759.63",
+    "dealer_loc": "Toronto",
+    "car_km": 231748
+},
+{
+    "car_id": 741,
+    "car_make": "Mazda",
+    "car_year": 2009,
+    "car_model": "B-Series",
+    "car_price": "$5049.69",
+    "dealer_loc": "Corner Brook",
+    "car_km": 59468
+},
+{
+    "car_id": 622,
+    "car_make": "Mitsubishi",
+    "car_year": 2001,
+    "car_model": "Galant",
+    "car_price": "$10176.92",
+    "dealer_loc": "St. John's",
+    "car_km": 226684
+},
+{
+    "car_id": 999,
+    "car_make": "Subaru",
+    "car_year": 2011,
+    "car_model": "Impreza",
+    "car_price": "$6962.41",
+    "dealer_loc": "St. John's",
+    "car_km": 172858
+},
+{
+    "car_id": 623,
+    "car_make": "Isuzu",
+    "car_year": 2000,
+    "car_model": "Hombre",
+    "car_price": "$14483.81",
+    "dealer_loc": "Toronto",
+    "car_km": 138531
+},
+{
+    "car_id": 788,
+    "car_make": "Chevrolet",
+    "car_year": 1987,
+    "car_model": "Corvette",
+    "car_price": "$7775.02",
+    "dealer_loc": "Corner Brook",
+    "car_km": 78493
+},
+{
+    "car_id": 808,
+    "car_make": "Infiniti",
+    "car_year": 2008,
+    "car_model": "QX56",
+    "car_price": "$11659.77",
+    "dealer_loc": "Toronto",
+    "car_km": 76411
+},
+{
+    "car_id": 633,
+    "car_make": "Isuzu",
+    "car_year": 2002,
+    "car_model": "Trooper",
+    "car_price": "$18721.29",
+    "dealer_loc": "Halifax",
+    "car_km": 123743
+},
+{
+    "car_id": 929,
+    "car_make": "BMW",
+    "car_year": 2004,
+    "car_model": "760",
+    "car_price": "$19197.31",
+    "dealer_loc": "Halifax",
+    "car_km": 71684
+},
+{
+    "car_id": 691,
+    "car_make": "Ford",
+    "car_year": 1992,
+    "car_model": "Explorer",
+    "car_price": "$7411.93",
+    "dealer_loc": "Halifax",
+    "car_km": 102621
+},
+{
+    "car_id": 731,
+    "car_make": "Infiniti",
+    "car_year": 2005,
+    "car_model": "G",
+    "car_price": "$16704.76",
+    "dealer_loc": "Gander",
+    "car_km": 98430
+},
+{
+    "car_id": 667,
+    "car_make": "Maserati",
+    "car_year": 2007,
+    "car_model": "Quattroporte",
+    "car_price": "$14347.82",
+    "dealer_loc": "St. John's",
+    "car_km": 135181
+},
+{
+    "car_id": 1084,
+    "car_make": "Toyota",
+    "car_year": 1998,
+    "car_model": "Supra",
+    "car_price": "$12259.12",
+    "dealer_loc": "Halifax",
+    "car_km": 152919
+},
+{
+    "car_id": 900,
+    "car_make": "Hyundai",
+    "car_year": 2006,
+    "car_model": "Tiburon",
+    "car_price": "$18785.43",
+    "dealer_loc": "Corner Brook",
+    "car_km": 69746
+},
+{
+    "car_id": 860,
+    "car_make": "Mercury",
+    "car_year": 2002,
+    "car_model": "Sable",
+    "car_price": "$7245.69",
+    "dealer_loc": "Corner Brook",
+    "car_km": 276990
+},
+{
+    "car_id": 1047,
+    "car_make": "Acura",
+    "car_year": 2007,
+    "car_model": "TL",
+    "car_price": "$8058.18",
+    "dealer_loc": "Vancouver",
+    "car_km": 231369
+},
+{
+    "car_id": 925,
+    "car_make": "Mitsubishi",
+    "car_year": 2006,
+    "car_model": "Pajero",
+    "car_price": "$10768.26",
+    "dealer_loc": "Gander",
+    "car_km": 52522
+},
+{
+    "car_id": 1056,
+    "car_make": "Volkswagen",
+    "car_year": 2011,
+    "car_model": "CC",
+    "car_price": "$7888.38",
+    "dealer_loc": "Corner Brook",
+    "car_km": 81185
+},
+{
+    "car_id": 796,
+    "car_make": "Chevrolet",
+    "car_year": 2006,
+    "car_model": "Express 1500",
+    "car_price": "$3795.04",
+    "dealer_loc": "Gander",
+    "car_km": 144676
+},
+{
+    "car_id": 845,
+    "car_make": "Suzuki",
+    "car_year": 1996,
+    "car_model": "X-90",
+    "car_price": "$16376.56",
+    "dealer_loc": "Vancouver",
+    "car_km": 280165
+},
+{
+    "car_id": 1011,
+    "car_make": "Lexus",
+    "car_year": 1996,
+    "car_model": "ES",
+    "car_price": "$11815.44",
+    "dealer_loc": "Vancouver",
+    "car_km": 73507
+},
+{
+    "car_id": 733,
+    "car_make": "Dodge",
+    "car_year": 1993,
+    "car_model": "Ram Van B250",
+    "car_price": "$10302.57",
+    "dealer_loc": "Vancouver",
+    "car_km": 236354
+},
+{
+    "car_id": 813,
+    "car_make": "Pontiac",
+    "car_year": 1991,
+    "car_model": "Grand Am",
+    "car_price": "$10216.74",
+    "dealer_loc": "Halifax",
+    "car_km": 217969
+},
+{
+    "car_id": 939,
+    "car_make": "Mercedes-Benz",
+    "car_year": 1988,
+    "car_model": "E-Class",
+    "car_price": "$17430.36",
+    "dealer_loc": "Halifax",
+    "car_km": 192194
+},
+{
+    "car_id": 636,
+    "car_make": "Volkswagen",
+    "car_year": 2011,
+    "car_model": "Routan",
+    "car_price": "$3557.48",
+    "dealer_loc": "St. John's",
+    "car_km": 73285
+},
+{
+    "car_id": 956,
+    "car_make": "Nissan",
+    "car_year": 2001,
+    "car_model": "Pathfinder",
+    "car_price": "$17116.01",
+    "dealer_loc": "Vancouver",
+    "car_km": 267129
+},
+{
+    "car_id": 696,
+    "car_make": "Mitsubishi",
+    "car_year": 1997,
+    "car_model": "GTO",
+    "car_price": "$20744.40",
+    "dealer_loc": "St. John's",
+    "car_km": 49254
+},
+{
+    "car_id": 710,
+    "car_make": "Chrysler",
+    "car_year": 1999,
+    "car_model": "LHS",
+    "car_price": "$19700.20",
+    "dealer_loc": "Corner Brook",
+    "car_km": 172426
+},
+{
+    "car_id": 838,
+    "car_make": "Ford",
+    "car_year": 1988,
+    "car_model": "LTD Crown Victoria",
+    "car_price": "$11736.01",
+    "dealer_loc": "Vancouver",
+    "car_km": 234255
+},
+{
+    "car_id": 762,
+    "car_make": "BMW",
+    "car_year": 2011,
+    "car_model": "Z4",
+    "car_price": "$19065.79",
+    "dealer_loc": "Corner Brook",
+    "car_km": 210662
+},
+{
+    "car_id": 869,
+    "car_make": "Ford",
+    "car_year": 1991,
+    "car_model": "LTD Crown Victoria",
+    "car_price": "$12065.73",
+    "dealer_loc": "St. John's",
+    "car_km": 274152
+},
+{
+    "car_id": 750,
+    "car_make": "Honda",
+    "car_year": 2008,
+    "car_model": "Accord",
+    "car_price": "$11732.28",
+    "dealer_loc": "Corner Brook",
+    "car_km": 245815
+},
+{
+    "car_id": 916,
+    "car_make": "BMW",
+    "car_year": 2006,
+    "car_model": "Z4",
+    "car_price": "$12644.59",
+    "dealer_loc": "Vancouver",
+    "car_km": 296631
+},
+{
+    "car_id": 1095,
+    "car_make": "Toyota",
+    "car_year": 2010,
+    "car_model": "Sienna",
+    "car_price": "$19897.18",
+    "dealer_loc": "Corner Brook",
+    "car_km": 174793
+},
+{
+    "car_id": 818,
+    "car_make": "Subaru",
+    "car_year": 2004,
+    "car_model": "Outback",
+    "car_price": "$12197.92",
+    "dealer_loc": "Gander",
+    "car_km": 90337
+},
+{
+    "car_id": 800,
+    "car_make": "Dodge",
+    "car_year": 1995,
+    "car_model": "Ram Van 2500",
+    "car_price": "$17825.53",
+    "dealer_loc": "Gander",
+    "car_km": 84613
+},
+{
+    "car_id": 866,
+    "car_make": "Volkswagen",
+    "car_year": 2004,
+    "car_model": "GTI",
+    "car_price": "$5473.75",
+    "dealer_loc": "St. John's",
+    "car_km": 246350
+},
+{
+    "car_id": 667,
+    "car_make": "Acura",
+    "car_year": 2009,
+    "car_model": "RL",
+    "car_price": "$9319.12",
+    "dealer_loc": "Halifax",
+    "car_km": 43267
+},
+{
+    "car_id": 873,
+    "car_make": "Ford",
+    "car_year": 1999,
+    "car_model": "Expedition",
+    "car_price": "$6191.22",
+    "dealer_loc": "Gander",
+    "car_km": 140635
+},
+{
+    "car_id": 1093,
+    "car_make": "Chevrolet",
+    "car_year": 1992,
+    "car_model": "3500",
+    "car_price": "$9497.15",
+    "dealer_loc": "Corner Brook",
+    "car_km": 245755
+},
+{
+    "car_id": 783,
+    "car_make": "BMW",
+    "car_year": 2003,
+    "car_model": "7 Series",
+    "car_price": "$14862.96",
+    "dealer_loc": "Vancouver",
+    "car_km": 200370
+},
+{
+    "car_id": 891,
+    "car_make": "Subaru",
+    "car_year": 2004,
+    "car_model": "Outback",
+    "car_price": "$20979.98",
+    "dealer_loc": "Vancouver",
+    "car_km": 135020
+},
+{
+    "car_id": 725,
+    "car_make": "Lexus",
+    "car_year": 2000,
+    "car_model": "SC",
+    "car_price": "$5804.30",
+    "dealer_loc": "Toronto",
+    "car_km": 275041
+},
+{
+    "car_id": 671,
+    "car_make": "Plymouth",
+    "car_year": 1999,
+    "car_model": "Breeze",
+    "car_price": "$14283.00",
+    "dealer_loc": "Vancouver",
+    "car_km": 64218
+},
+{
+    "car_id": 645,
+    "car_make": "Dodge",
+    "car_year": 1995,
+    "car_model": "Ram 2500",
+    "car_price": "$3158.68",
+    "dealer_loc": "Vancouver",
+    "car_km": 27129
+},
+{
+    "car_id": 803,
+    "car_make": "Ford",
+    "car_year": 2008,
+    "car_model": "F150",
+    "car_price": "$18265.55",
+    "dealer_loc": "Corner Brook",
+    "car_km": 60022
+},
+{
+    "car_id": 622,
+    "car_make": "Honda",
+    "car_year": 2002,
+    "car_model": "CR-V",
+    "car_price": "$15970.36",
+    "dealer_loc": "Gander",
+    "car_km": 54531
+},
+{
+    "car_id": 725,
+    "car_make": "Suzuki",
+    "car_year": 2005,
+    "car_model": "Verona",
+    "car_price": "$7737.57",
+    "dealer_loc": "Gander",
+    "car_km": 233937
+},
+{
+    "car_id": 731,
+    "car_make": "Ford",
+    "car_year": 2004,
+    "car_model": "F250",
+    "car_price": "$4111.67",
+    "dealer_loc": "Vancouver",
+    "car_km": 224452
+},
+{
+    "car_id": 1064,
+    "car_make": "Toyota",
+    "car_year": 2003,
+    "car_model": "Highlander",
+    "car_price": "$12182.62",
+    "dealer_loc": "Halifax",
+    "car_km": 229410
+},
+{
+    "car_id": 873,
+    "car_make": "Honda",
+    "car_year": 1992,
+    "car_model": "Prelude",
+    "car_price": "$13554.01",
+    "dealer_loc": "Gander",
+    "car_km": 236321
+},
+{
+    "car_id": 893,
+    "car_make": "Chevrolet",
+    "car_year": 2007,
+    "car_model": "Equinox",
+    "car_price": "$5416.84",
+    "dealer_loc": "Toronto",
+    "car_km": 46421
+},
+{
+    "car_id": 878,
+    "car_make": "Ford",
+    "car_year": 1993,
+    "car_model": "F-Series",
+    "car_price": "$10786.50",
+    "dealer_loc": "Halifax",
+    "car_km": 256465
+},
+{
+    "car_id": 708,
+    "car_make": "Volkswagen",
+    "car_year": 1999,
+    "car_model": "Jetta",
+    "car_price": "$8589.75",
+    "dealer_loc": "Gander",
+    "car_km": 46818
+},
+{
+    "car_id": 858,
+    "car_make": "Chevrolet",
+    "car_year": 1995,
+    "car_model": "2500",
+    "car_price": "$3859.06",
+    "dealer_loc": "Gander",
+    "car_km": 163723
+},
+{
+    "car_id": 685,
+    "car_make": "Jeep",
+    "car_year": 2002,
+    "car_model": "Wrangler",
+    "car_price": "$17614.30",
+    "dealer_loc": "Gander",
+    "car_km": 221478
+},
+{
+    "car_id": 1004,
+    "car_make": "Nissan",
+    "car_year": 2005,
+    "car_model": "Maxima",
+    "car_price": "$16403.32",
+    "dealer_loc": "St. John's",
+    "car_km": 254890
+},
+{
+    "car_id": 959,
+    "car_make": "BMW",
+    "car_year": 2002,
+    "car_model": "3 Series",
+    "car_price": "$12315.70",
+    "dealer_loc": "Vancouver",
+    "car_km": 84288
+},
+{
+    "car_id": 1023,
+    "car_make": "GMC",
+    "car_year": 1993,
+    "car_model": "Jimmy",
+    "car_price": "$11552.84",
+    "dealer_loc": "Vancouver",
+    "car_km": 78401
+},
+{
+    "car_id": 841,
+    "car_make": "Pontiac",
+    "car_year": 2000,
+    "car_model": "Grand Am",
+    "car_price": "$7950.34",
+    "dealer_loc": "Toronto",
+    "car_km": 192978
+},
+{
+    "car_id": 635,
+    "car_make": "Buick",
+    "car_year": 1999,
+    "car_model": "Century",
+    "car_price": "$3888.64",
+    "dealer_loc": "St. John's",
+    "car_km": 160490
+},
+{
+    "car_id": 633,
+    "car_make": "Buick",
+    "car_year": 1985,
+    "car_model": "Skylark",
+    "car_price": "$8326.51",
+    "dealer_loc": "St. John's",
+    "car_km": 275269
+},
+{
+    "car_id": 720,
+    "car_make": "Volkswagen",
+    "car_year": 1995,
+    "car_model": "rio",
+    "car_price": "$8519.13",
+    "dealer_loc": "Gander",
+    "car_km": 150618
+},
+{
+    "car_id": 765,
+    "car_make": "Mercury",
+    "car_year": 1995,
+    "car_model": "Grand Marquis",
+    "car_price": "$18278.34",
+    "dealer_loc": "Gander",
+    "car_km": 158128
+},
+{
+    "car_id": 936,
+    "car_make": "Chevrolet",
+    "car_year": 2011,
+    "car_model": "Impala",
+    "car_price": "$6131.62",
+    "dealer_loc": "Toronto",
+    "car_km": 111695
+},
+{
+    "car_id": 1075,
+    "car_make": "Scion",
+    "car_year": 2008,
+    "car_model": "xB",
+    "car_price": "$17273.79",
+    "dealer_loc": "Corner Brook",
+    "car_km": 133952
+},
+{
+    "car_id": 678,
+    "car_make": "Dodge",
+    "car_year": 2002,
+    "car_model": "Caravan",
+    "car_price": "$15820.43",
+    "dealer_loc": "Halifax",
+    "car_km": 31963
+},
+{
+    "car_id": 622,
+    "car_make": "Kia",
+    "car_year": 2008,
+    "car_model": "Sedona",
+    "car_price": "$15206.41",
+    "dealer_loc": "Vancouver",
+    "car_km": 153977
+},
+{
+    "car_id": 738,
+    "car_make": "Lincoln",
+    "car_year": 2000,
+    "car_model": "Continental",
+    "car_price": "$13875.32",
+    "dealer_loc": "Gander",
+    "car_km": 252197
+},
+{
+    "car_id": 800,
+    "car_make": "Ford",
+    "car_year": 1996,
+    "car_model": "F350",
+    "car_price": "$4088.69",
+    "dealer_loc": "Gander",
+    "car_km": 42732
+},
+{
+    "car_id": 1054,
+    "car_make": "Aston Martin",
+    "car_year": 2006,
+    "car_model": "DB9",
+    "car_price": "$14272.33",
+    "dealer_loc": "Halifax",
+    "car_km": 285623
+},
+{
+    "car_id": 761,
+    "car_make": "Hyundai",
+    "car_year": 1994,
+    "car_model": "Excel",
+    "car_price": "$7670.39",
+    "dealer_loc": "Toronto",
+    "car_km": 37596
+},
+{
+    "car_id": 1020,
+    "car_make": "Subaru",
+    "car_year": 1996,
+    "car_model": "Impreza",
+    "car_price": "$15730.26",
+    "dealer_loc": "Gander",
+    "car_km": 288374
+},
+{
+    "car_id": 711,
+    "car_make": "Aptera",
+    "car_year": 2010,
+    "car_model": "Type-1h",
+    "car_price": "$3419.52",
+    "dealer_loc": "Gander",
+    "car_km": 98109
+},
+{
+    "car_id": 908,
+    "car_make": "Acura",
+    "car_year": 1999,
+    "car_model": "RL",
+    "car_price": "$4722.99",
+    "dealer_loc": "Vancouver",
+    "car_km": 97500
+},
+{
+    "car_id": 792,
+    "car_make": "Mitsubishi",
+    "car_year": 1993,
+    "car_model": "Mighty Max Macro",
+    "car_price": "$14160.33",
+    "dealer_loc": "Toronto",
+    "car_km": 226815
+},
+{
+    "car_id": 930,
+    "car_make": "Ford",
+    "car_year": 1997,
+    "car_model": "Escort",
+    "car_price": "$11365.53",
+    "dealer_loc": "Halifax",
+    "car_km": 155866
+},
+{
+    "car_id": 671,
+    "car_make": "Toyota",
+    "car_year": 2006,
+    "car_model": "Matrix",
+    "car_price": "$4358.88",
+    "dealer_loc": "Toronto",
+    "car_km": 288742
+},
+{
+    "car_id": 1088,
+    "car_make": "BMW",
+    "car_year": 1995,
+    "car_model": "5 Series",
+    "car_price": "$10117.38",
+    "dealer_loc": "Halifax",
+    "car_km": 33176
+},
+{
+    "car_id": 1015,
+    "car_make": "Pontiac",
+    "car_year": 2005,
+    "car_model": "Montana",
+    "car_price": "$3831.88",
+    "dealer_loc": "Halifax",
+    "car_km": 216143
+},
+{
+    "car_id": 1003,
+    "car_make": "Volvo",
+    "car_year": 1993,
+    "car_model": "850",
+    "car_price": "$10199.44",
+    "dealer_loc": "Vancouver",
+    "car_km": 146715
+},
+{
+    "car_id": 968,
+    "car_make": "Acura",
+    "car_year": 1999,
+    "car_model": "TL",
+    "car_price": "$12519.41",
+    "dealer_loc": "Vancouver",
+    "car_km": 216460
+},
+{
+    "car_id": 1058,
+    "car_make": "Nissan",
+    "car_year": 2010,
+    "car_model": "370Z",
+    "car_price": "$14055.05",
+    "dealer_loc": "Toronto",
+    "car_km": 20118
+},
+{
+    "car_id": 873,
+    "car_make": "Hyundai",
+    "car_year": 2012,
+    "car_model": "Genesis",
+    "car_price": "$6961.63",
+    "dealer_loc": "Halifax",
+    "car_km": 21585
+},
+{
+    "car_id": 615,
+    "car_make": "Mercedes-Benz",
+    "car_year": 2011,
+    "car_model": "S-Class",
+    "car_price": "$8268.39",
+    "dealer_loc": "Halifax",
+    "car_km": 232025
+},
+{
+    "car_id": 791,
+    "car_make": "GMC",
+    "car_year": 2009,
+    "car_model": "Yukon",
+    "car_price": "$10838.58",
+    "dealer_loc": "St. John's",
+    "car_km": 258620
+},
+{
+    "car_id": 894,
+    "car_make": "BMW",
+    "car_year": 2008,
+    "car_model": "3 Series",
+    "car_price": "$15391.70",
+    "dealer_loc": "Gander",
+    "car_km": 106116
+},
+{
+    "car_id": 913,
+    "car_make": "Subaru",
+    "car_year": 2008,
+    "car_model": "Tribeca",
+    "car_price": "$17645.39",
+    "dealer_loc": "St. John's",
+    "car_km": 133100
+},
+{
+    "car_id": 894,
+    "car_make": "Geo",
+    "car_year": 1996,
+    "car_model": "Prizm",
+    "car_price": "$15818.34",
+    "dealer_loc": "St. John's",
+    "car_km": 218713
+},
+{
+    "car_id": 987,
+    "car_make": "Buick",
+    "car_year": 2004,
+    "car_model": "Park Avenue",
+    "car_price": "$8435.32",
+    "dealer_loc": "Vancouver",
+    "car_km": 201056
+},
+{
+    "car_id": 608,
+    "car_make": "Lincoln",
+    "car_year": 1986,
+    "car_model": "Town Car",
+    "car_price": "$9006.07",
+    "dealer_loc": "St. John's",
+    "car_km": 100857
+},
+{
+    "car_id": 942,
+    "car_make": "Pontiac",
+    "car_year": 1999,
+    "car_model": "Firebird Formula",
+    "car_price": "$13064.39",
+    "dealer_loc": "Gander",
+    "car_km": 188539
+},
+{
+    "car_id": 928,
+    "car_make": "Chevrolet",
+    "car_year": 2007,
+    "car_model": "Colorado",
+    "car_price": "$9653.03",
+    "dealer_loc": "St. John's",
+    "car_km": 109938
+},
+{
+    "car_id": 811,
+    "car_make": "Mazda",
+    "car_year": 1990,
+    "car_model": "MPV",
+    "car_price": "$15206.88",
+    "dealer_loc": "Corner Brook",
+    "car_km": 171147
+},
+{
+    "car_id": 955,
+    "car_make": "Chevrolet",
+    "car_year": 1996,
+    "car_model": "Tahoe",
+    "car_price": "$10068.81",
+    "dealer_loc": "Halifax",
+    "car_km": 161227
+},
+{
+    "car_id": 947,
+    "car_make": "Ford",
+    "car_year": 2000,
+    "car_model": "Escort",
+    "car_price": "$7183.89",
+    "dealer_loc": "Toronto",
+    "car_km": 191314
+}]

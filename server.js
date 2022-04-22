@@ -12,6 +12,7 @@ const methodOverride = require("method-override");
 const pg = require("pg");
 const PORT = 3000;
 const morgan = require("morgan");
+const uuid = require('uuid')
 
 
 //sql connections
@@ -66,7 +67,9 @@ app.get("/", checkAuthenticated, async function (req, res) {
 });
 
 app.post('/', async (req, res) => {
-  console.log(req.u_id)
+  console.log("USER ID:")
+  console.log(req.user.id)
+  let user_id = req.user.id
   let dbChoice = req.body.databases
   let filterChoice = req.body.filters
     if(dbChoice == '0'){
@@ -131,7 +134,7 @@ app.post("/register", checkNotAuthenticated, async (req, res) => {
   try {
     const hashedPassword = await bcrypt.hash(req.body.password, 10);
     users.push({
-      id: Date.now().toString(),
+      id: uuid.v1(), //to change user id fetch
       name: req.body.name,
       email: req.body.email,
       password: hashedPassword,

@@ -88,3 +88,16 @@
 20220421	21:47:15	INFO	router.post()	User Input: Honda DB: MongoDB Filter: car_make	User ID: 36
 20220421	21:47:15	INFO	router.post()	User Input: Civic DB: MongoDB and SQL Filter: car_model	User ID: 36
 20220421	21:48:13	INFO	router.post()	User Input: Toronto DB: SQL Filter: dealer_loc	User ID: 8
+20220421	23:13:12	INFO	router.get()	Database Query Webpage Initiated.
+20220421	23:13:12	INFO	router.post()	User Input: Honda DB: MongoDB Filter: car_make	User ID: 53
+20220421	23:13:12	INFO	router.post()	User Input: Toronto DB: MongoDB and SQL Filter: dealer_loc	User ID: 53
+20220421	23:23:21	INFO	router.get()	Database Query Webpage Initiated.
+20220421	23:23:21	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select	User ID: 29
+20220421	23:23:21	INFO	router.post()	User Input:  DB: SQL Filter: select	User ID: 29
+20220421	23:36:26	INFO	router.get()	Database Query Webpage Initiated.
+20220421	23:36:26	INFO	router.post()	User Input:  DB: MongoDB and SQL Filter: select	User ID: 18
+20220421	23:39:03	INFO	router.get()	Database Query Webpage Initiated.
+20220421	23:39:03	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select	User ID: 1650593356021
+20220421	23:39:03	INFO	router.post()	User Input: Toronto DB: MongoDB Filter: dealer_loc	User ID: 1650593356021
+20220421	23:47:48	INFO	router.get()	Database Query Webpage Initiated.
+20220421	23:47:48	INFO	router.post()	User Input: 1999 DB: SQL Filter: car_year	User ID: 6cc4cfd0-c1e2-11ec-ae63-6f18ea679b2e

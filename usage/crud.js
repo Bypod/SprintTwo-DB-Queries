@@ -1,32 +1,6 @@
 const {MongoClient} = require('mongodb')
-// const { MongoClient, ServerApiVersion } = require('mongodb');
 const uri = "mongodb+srv://john:ranger16@cluster0.ilmyj.mongodb.net/sprintdb?retryWrites=true&w=majority"
-// const client = new MongoClient(uri)
 
-
-// async function main() {
-    
-//     const uri = "mongodb+srv://john:ranger16@cluster0.ilmyj.mongodb.net/sprintdb?retryWrites=true&w=majority"
-
-//     const client = new MongoClient(uri)
-//     // const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
-
-//     try{
-//         //connect to mongodb
-//         await client.connect();
-
-//         //db calls
-//         await listDatabases(client)
-
-//         // await carsByName(client, "Toronto")
-//     } catch(e) {
-//         console.error(e)
-//     } finally {
-//         await client.close()
-//     }
-// }
-
-// main().catch(console.error)
 
 async function listDatabases(client){
     databasesList = await client.db().admin().listDatabases();

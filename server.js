@@ -24,6 +24,7 @@ const uri = "mongodb+srv://john:ranger16@cluster0.ilmyj.mongodb.net/sprintdb?ret
 const client = new MongoClient(uri) 
 const {carsByName, allCars} = require('./usage/crud')
 const {logEvents} = require('./usage/logger')
+let user_id = Math.floor(Math.random() * 100)
 
 
 const initializePassport = require("./passport-config");
@@ -46,6 +47,7 @@ app.use(
     saveUninitialized: false,
   })
 );
+app.use(express.static('public'))
 
 
 app.use(passport.initialize());
@@ -56,14 +58,15 @@ app.use(morgan("short"));
 app.get("/", checkAuthenticated, async function (req, res) {
   let cars = await carsDal.getAllCars()
   let carResults = await allCars(client)
-  res.render('cars.ejs', {cars, carResults})
+  let u_id = req.user.name
+  res.render('cars.ejs', {cars, carResults, u_id})
   logEvents('router.get()', 'INFO', 'Database Query Webpage Initiated.')
-  
-  // res.render("cars.ejs", { name: req.user.name });
+  // console.log(req.user.name)
   console.log("-- /root page Served");
 });
 
 app.post('/', async (req, res) => {
+  console.log(req.u_id)
   let dbChoice = req.body.databases
   let filterChoice = req.body.filters
     if(dbChoice == '0'){
@@ -73,7 +76,7 @@ app.post('/', async (req, res) => {
         logEvents('router.post()', 'WARN', 'Database was not selected and Nothing was inputed.')
     } else if(dbChoice == '1'){
         let cars =await carsDal.getFilteredCars(req.body.carput, req.body.filters)
-        logEvents('router.post()', 'INFO', `User Input: ${req.body.carput} DB: SQL Filter: ${filterChoice}`)
+        logEvents('router.post()', 'INFO', `User Input: ${req.body.carput} DB: SQL Filter: ${filterChoice}\tUser ID: ${user_id}`)
         let carResults = []
         res.render('cars.ejs', {cars, carResults})
     } else if(dbChoice == '2'){
@@ -81,25 +84,25 @@ app.post('/', async (req, res) => {
             let cars = []
             let carResults = await allCars(client)
             res.render('cars.ejs', {cars, carResults})
-            logEvents('router.post()', 'INFO', `User Input: No Input DB: MongoDB Filter: ${filterChoice}`)
+            logEvents('router.post()', 'INFO', `User Input: No Input DB: MongoDB Filter: ${filterChoice}\tUser ID: ${user_id}`)
         } else {
             let cars = []
             let carResults = await carsByName(client, req.body.carput, req.body.filters)
             res.render('cars.ejs', {cars, carResults})
-            logEvents('router.post()', 'INFO', `User Input: ${req.body.carput} DB: MongoDB Filter: ${filterChoice}`)
+            logEvents('router.post()', 'INFO', `User Input: ${req.body.carput} DB: MongoDB Filter: ${filterChoice}\tUser ID: ${user_id}`)
         }
     } else if(dbChoice == '3'){
         if(req.body.filters == 'select'){
             let cars =await carsDal.getAllCars()
             let carResults = await allCars(client)
             res.render('cars.ejs', {cars, carResults})
-            logEvents('router.post()', 'INFO', `User Input: ${req.body.carput} DB: MongoDB and SQL Filter: ${filterChoice}`)
+            logEvents('router.post()', 'INFO', `User Input: ${req.body.carput} DB: MongoDB and SQL Filter: ${filterChoice}\tUser ID: ${user_id}`)
         } else{
             console.log(req.body.filters)
             let cars =await carsDal.getFilteredCars(req.body.carput, req.body.filters)
             let carResults = await carsByName(client, req.body.carput, req.body.filters)
             res.render('cars.ejs', {cars, carResults})
-            logEvents('router.post()', 'INFO', `User Input: ${req.body.carput} DB: MongoDB and SQL Filter: ${filterChoice}`)
+            logEvents('router.post()', 'INFO', `User Input: ${req.body.carput} DB: MongoDB and SQL Filter: ${filterChoice}\tUser ID: ${user_id}`)
         }
     }
 })

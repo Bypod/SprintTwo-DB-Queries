@@ -16,3 +16,75 @@
 20220421	11:15:13	INFO	router.post()	User Input: Civic DB: SQL Filter: car_model
 20220421	11:15:13	INFO	router.post()	User Input: Honda DB: SQL Filter: car_make
 20220421	11:15:13	INFO	router.post()	User Input: Halifax DB: MongoDB and SQL Filter: dealer_loc
+20220421	12:11:45	INFO	router.post()	User Input: Halifax DB: MongoDB and SQL Filter: dealer_loc
+20220421	12:11:45	INFO	router.post()	User Input: Halifax DB: MongoDB and SQL Filter: dealer_loc
+20220421	12:11:45	INFO	router.post()	User Input: Halifax DB: MongoDB and SQL Filter: dealer_loc
+20220421	12:11:45	INFO	router.post()	User Input: Halifax DB: MongoDB and SQL Filter: dealer_loc
+20220421	12:11:45	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	12:11:45	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	12:11:45	INFO	router.get()	Database Query Webpage Initiated.
+20220421	12:11:45	INFO	router.post()	User Input: 2001 DB: MongoDB Filter: car_year
+20220421	12:15:31	INFO	router.get()	Database Query Webpage Initiated.
+20220421	12:15:31	INFO	router.post()	User Input: 2002 DB: MongoDB Filter: car_year
+20220421	12:15:31	INFO	router.post()	User Input: Civic DB: MongoDB and SQL Filter: car_model
+20220421	12:33:39	INFO	router.get()	Database Query Webpage Initiated.
+20220421	12:33:39	INFO	router.post()	User Input: Civic DB: MongoDB and SQL Filter: car_model
+20220421	12:40:11	INFO	router.post()	User Input: Civic DB: MongoDB and SQL Filter: car_model
+20220421	12:41:18	INFO	router.post()	User Input: Civic DB: MongoDB and SQL Filter: car_model
+20220421	12:41:43	INFO	router.post()	User Input: Civic DB: MongoDB and SQL Filter: car_model
+20220421	12:42:49	INFO	router.post()	User Input: Civic DB: MongoDB and SQL Filter: car_model
+20220421	12:42:49	INFO	router.post()	User Input: Civic DB: MongoDB and SQL Filter: car_model
+20220421	12:42:49	INFO	router.post()	User Input: Civic DB: MongoDB and SQL Filter: car_model
+20220421	12:42:49	INFO	router.get()	Database Query Webpage Initiated.
+20220421	12:42:49	INFO	router.post()	User Input: Honda DB: MongoDB Filter: car_make
+20220421	12:47:27	INFO	router.get()	Database Query Webpage Initiated.
+20220421	12:47:27	INFO	router.post()	User Input: Toyota DB: MongoDB and SQL Filter: car_make
+20220421	12:48:42	INFO	router.get()	Database Query Webpage Initiated.
+20220421	12:52:55	INFO	router.get()	Database Query Webpage Initiated.
+20220421	12:52:55	INFO	router.post()	User Input: Toyota DB: MongoDB Filter: car_make
+20220421	12:55:53	INFO	router.post()	User Input: Toyota DB: MongoDB Filter: car_make
+20220421	12:56:16	INFO	router.post()	User Input: Toyota DB: MongoDB Filter: car_make
+20220421	13:06:23	INFO	router.post()	User Input: Toyota DB: MongoDB Filter: car_make
+20220421	13:06:23	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	13:06:23	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	13:06:23	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	13:06:23	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	13:06:23	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	13:06:23	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	13:06:23	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	13:06:23	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	13:06:23	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	13:06:23	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	13:14:12	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	13:15:17	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	13:16:08	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	13:17:03	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	13:17:03	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	13:17:03	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	13:17:03	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	13:17:03	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	13:25:35	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	13:25:35	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	13:25:35	INFO	router.get()	Database Query Webpage Initiated.
+20220421	13:35:14	INFO	router.get()	Database Query Webpage Initiated.
+20220421	13:35:14	INFO	router.post()	User Input: 2005 DB: MongoDB Filter: car_year
+20220421	18:12:57	INFO	router.post()	User Input: 2005 DB: MongoDB Filter: car_year
+20220421	18:12:57	INFO	router.get()	Database Query Webpage Initiated.
+20220421	18:12:57	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	18:14:11	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	18:14:11	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	18:14:11	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	18:14:11	INFO	router.get()	Database Query Webpage Initiated.
+20220421	18:14:11	INFO	router.get()	Database Query Webpage Initiated.
+20220421	18:14:11	INFO	router.get()	Database Query Webpage Initiated.
+20220421	18:18:39	INFO	router.get()	Database Query Webpage Initiated.
+20220421	18:18:39	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	18:49:46	INFO	router.get()	Database Query Webpage Initiated.
+20220421	18:52:17	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	18:52:17	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select
+20220421	21:47:15	INFO	router.post()	User Input: No Input DB: MongoDB Filter: select	User ID: 36
+20220421	21:47:15	INFO	router.get()	Database Query Webpage Initiated.
+20220421	21:47:15	INFO	router.post()	User Input: 2002 DB: MongoDB Filter: car_year	User ID: 36
+20220421	21:47:15	INFO	router.post()	User Input: Honda DB: MongoDB Filter: car_make	User ID: 36
+20220421	21:47:15	INFO	router.post()	User Input: Civic DB: MongoDB and SQL Filter: car_model	User ID: 36
+20220421	21:48:13	INFO	router.post()	User Input: Toronto DB: SQL Filter: dealer_loc	User ID: 8
